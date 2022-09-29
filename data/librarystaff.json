@@ -1,0 +1,106 @@
+[
+  {
+    "data": [
+      {
+        "staff_ID": "1",
+        "staff_firstname": "Jeanine",
+        "staff_lastname": "Abbott",
+        "staff_mobilenumber": "060-357-0479",
+        "staff_email": "hjgqk.xthwdgqbuw@qyzcwfj.wtwdul.net",
+        "staff_authsalt": "L2G2A7K041MTRCP7HEQS75FZU864J8E6H6VB20YYKD8Z2YQTLTK9LDYGNH820FHWMGCLGD5HGS7TWFWVHCJPN5L38FOLSWX4WCDMM5C7O2SS54J7KDKOVR8GU8D1PJP",
+        "staff_password": "VSNI5N25HREIA1BM",
+        "staff_category": "Admin"
+      },
+      {
+        "staff_ID": "2",
+        "staff_firstname": "Lester",
+        "staff_lastname": "Lam",
+        "staff_mobilenumber": "3237875959",
+        "staff_email": "mjvj71@qsslscnk.rhhika.org",
+        "staff_authsalt": "V3XK298CZC1LDSY3VG0EB9843WRDSBH4D7X27Z5A48OJQN31A959JA9LUSG5IUJO",
+        "staff_password": "F4WFBS2H3SECLOLIJW5Q6IPUXCIYBRXPY0ZSK8K0L12UN",
+        "staff_category": "Admin"
+      },
+      {
+        "staff_ID": "3",
+        "staff_firstname": "Claire",
+        "staff_lastname": "Cowan",
+        "staff_mobilenumber": "834-6660209",
+        "staff_email": "exdbrlv.aaejewqr@vj-tpj.org",
+        "staff_authsalt": "W75VVWWBQA3LOEGTP3I58L2Y",
+        "staff_password": "W3T0R46VXX",
+        "staff_category": "FrontDesk"
+      },
+      {
+        "staff_ID": "4",
+        "staff_firstname": "Shannon",
+        "staff_lastname": "Bentley",
+        "staff_mobilenumber": "276-6711926",
+        "staff_email": "neakizbq19@wibn.unlrrw.com",
+        "staff_authsalt": "7EIZS9OZPUFX6ED9XSZ505D0CSR1ILA46JNIECX0ELZK0WJO4WBS2SB20IM0INH4JAQNRVULVZRF6TZG82WMAH2E8LHVPXIR3V1Q5",
+        "staff_password": "2IY946BVOEKPSXAC555GV65GF4AZS",
+        "staff_category": "Inventory Manager"
+      },
+      {
+        "staff_ID": "5",
+        "staff_firstname": "Valerie",
+        "staff_lastname": "Berger",
+        "staff_mobilenumber": "398602-6555",
+        "staff_email": "udenrkh36@gmphop.com",
+        "staff_authsalt": "X91PX31VV7J6RFQVT",
+        "staff_password": "221DIQLQGVQZYDBE12GS0QS",
+        "staff_category": "Inventory Manager"
+      },
+      {
+        "staff_ID": "6",
+        "staff_firstname": "Ty",
+        "staff_lastname": "Keith",
+        "staff_mobilenumber": "477-732-0140",
+        "staff_email": "nsrc60@oypgma.net",
+        "staff_authsalt": "8CF5DZWYG0BBR8AC5NKKKYDCPACI52081ZHTGRV2SZM0KKFAVE93A9HAZ3G3MESEZ39SQHWERISKBCS4U2MQSXXSH7UDBSFE681GAMJEIVBSGXYNBB8KR1L15HBJNI2Z2DE3ABT8I88WL4",
+        "staff_password": "JWCIUZVC25CINEFKQEO9PW7R40",
+        "staff_category": "Admin"
+      },
+      {
+        "staff_ID": "7",
+        "staff_firstname": "Roy",
+        "staff_lastname": "Finley",
+        "staff_mobilenumber": "740031-2445",
+        "staff_email": "oapmyl.nawjcgblhk@myqhxab.n--nmb.org",
+        "staff_authsalt": "J9620JUM4N0ATA0RZTCQ2JVCZH02JTOF16R9GG2G7R9GA00XHG838E80DU2IIS2AYK9MJQAJRWIB9F2ZG3K2LL6NYQWMDJXFOYHPQEE",
+        "staff_password": "8I0ICAKULD3WH0EWT1TRMNW1M1IRNOLDTWMT1M072KT6MI",
+        "staff_category": "Admin"
+      },
+      {
+        "staff_ID": "8",
+        "staff_firstname": "Ashley",
+        "staff_lastname": "Howard",
+        "staff_mobilenumber": "026-417-0740",
+        "staff_email": "hbufgey.dgiwezcpj@jipxjc.com",
+        "staff_authsalt": "6OCCVWRYR22E70PDDLOSUO57Y3NBXC81PTWW8",
+        "staff_password": "9AZEPB9HKMZWARS6XSQ3KDLU61LO1UPE4T9HNAV1",
+        "staff_category": "FrontDesk"
+      },
+      {
+        "staff_ID": "9",
+        "staff_firstname": "Forrest",
+        "staff_lastname": "Rich",
+        "staff_mobilenumber": "4512570658",
+        "staff_email": "ahwaet621@actu.wj-xyc.org",
+        "staff_authsalt": "R1ZXUBHJ7O94C4QLWHJ4DS",
+        "staff_password": "E262QPG9EVEWFMWP57OQKFQ",
+        "staff_category": "Admin"
+      },
+      {
+        "staff_ID": "10",
+        "staff_firstname": "Ron",
+        "staff_lastname": "Martin",
+        "staff_mobilenumber": "387-859-5665",
+        "staff_email": "xylwvd.pwggdca@heqpif.net",
+        "staff_authsalt": "G0FT0PE3S4ITMSWUUQFVZ1SZ4B3XFD3HZSJWFHGTTKG0TA3TZNPEXW9E8FPOLF01UT90FC9M1ELS5T7AYROPJ3I5OZRS7DW10SG9JZ8C5BUUSF",
+        "staff_password": "KSHI",
+        "staff_category": "Inventory Manager"
+      }
+    ]
+  }
+]
