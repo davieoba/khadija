@@ -1,0 +1,2402 @@
+[
+  {
+    "detail_ID": 1,
+    "return_ID": 197,
+    "book_ID": 727,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 2,
+    "return_ID": 221,
+    "book_ID": 818,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 3,
+    "return_ID": 208,
+    "book_ID": 769,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 4,
+    "return_ID": 151,
+    "book_ID": 559,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 5,
+    "return_ID": 56,
+    "book_ID": 207,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 6,
+    "return_ID": 151,
+    "book_ID": 4,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 7,
+    "return_ID": 245,
+    "book_ID": 907,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 8,
+    "return_ID": 120,
+    "book_ID": 443,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 9,
+    "return_ID": 264,
+    "book_ID": 978,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 10,
+    "return_ID": 74,
+    "book_ID": 274,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 11,
+    "return_ID": 79,
+    "book_ID": 292,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 12,
+    "return_ID": 127,
+    "book_ID": 468,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 13,
+    "return_ID": 171,
+    "book_ID": 633,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 14,
+    "return_ID": 127,
+    "book_ID": 470,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 15,
+    "return_ID": 266,
+    "book_ID": 983,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 16,
+    "return_ID": 9,
+    "book_ID": 31,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 17,
+    "return_ID": 233,
+    "book_ID": 863,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 18,
+    "return_ID": 269,
+    "book_ID": 996,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 19,
+    "return_ID": 183,
+    "book_ID": 678,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 20,
+    "return_ID": 85,
+    "book_ID": 315,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 21,
+    "return_ID": 221,
+    "book_ID": 817,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 22,
+    "return_ID": 229,
+    "book_ID": 849,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 23,
+    "return_ID": 268,
+    "book_ID": 992,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 24,
+    "return_ID": 9,
+    "book_ID": 33,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 25,
+    "return_ID": 189,
+    "book_ID": 700,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 26,
+    "return_ID": 143,
+    "book_ID": 527,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 27,
+    "return_ID": 253,
+    "book_ID": 935,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 28,
+    "return_ID": 186,
+    "book_ID": 688,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 29,
+    "return_ID": 148,
+    "book_ID": 547,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 30,
+    "return_ID": 22,
+    "book_ID": 82,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 31,
+    "return_ID": 51,
+    "book_ID": 188,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 32,
+    "return_ID": 123,
+    "book_ID": 454,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 33,
+    "return_ID": 81,
+    "book_ID": 298,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 34,
+    "return_ID": 267,
+    "book_ID": 989,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 35,
+    "return_ID": 174,
+    "book_ID": 643,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 36,
+    "return_ID": 207,
+    "book_ID": 763,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 37,
+    "return_ID": 9,
+    "book_ID": 16,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 38,
+    "return_ID": 103,
+    "book_ID": 382,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 39,
+    "return_ID": 93,
+    "book_ID": 344,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 40,
+    "return_ID": 259,
+    "book_ID": 958,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 41,
+    "return_ID": 137,
+    "book_ID": 506,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 42,
+    "return_ID": 194,
+    "book_ID": 716,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 43,
+    "return_ID": 33,
+    "book_ID": 119,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 44,
+    "return_ID": 74,
+    "book_ID": 10,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 45,
+    "return_ID": 245,
+    "book_ID": 908,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 46,
+    "return_ID": 215,
+    "book_ID": 795,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 47,
+    "return_ID": 92,
+    "book_ID": 338,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 48,
+    "return_ID": 124,
+    "book_ID": 458,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 49,
+    "return_ID": 40,
+    "book_ID": 147,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 50,
+    "return_ID": 60,
+    "book_ID": 222,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 51,
+    "return_ID": 111,
+    "book_ID": 411,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 52,
+    "return_ID": 195,
+    "book_ID": 719,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 53,
+    "return_ID": 168,
+    "book_ID": 620,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 54,
+    "return_ID": 132,
+    "book_ID": 488,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 55,
+    "return_ID": 53,
+    "book_ID": 195,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 56,
+    "return_ID": 238,
+    "book_ID": 879,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 57,
+    "return_ID": 223,
+    "book_ID": 826,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 58,
+    "return_ID": 199,
+    "book_ID": 736,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 59,
+    "return_ID": 232,
+    "book_ID": 859,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 60,
+    "return_ID": 184,
+    "book_ID": 680,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 61,
+    "return_ID": 169,
+    "book_ID": 625,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 62,
+    "return_ID": 59,
+    "book_ID": 219,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 63,
+    "return_ID": 242,
+    "book_ID": 896,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 64,
+    "return_ID": 243,
+    "book_ID": 897,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 65,
+    "return_ID": 24,
+    "book_ID": 87,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 66,
+    "return_ID": 227,
+    "book_ID": 839,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 67,
+    "return_ID": 46,
+    "book_ID": 171,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 68,
+    "return_ID": 174,
+    "book_ID": 645,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 69,
+    "return_ID": 224,
+    "book_ID": 827,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 70,
+    "return_ID": 60,
+    "book_ID": 220,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 71,
+    "return_ID": 270,
+    "book_ID": 1000,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 72,
+    "return_ID": 130,
+    "book_ID": 482,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 73,
+    "return_ID": 177,
+    "book_ID": 653,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 74,
+    "return_ID": 195,
+    "book_ID": 720,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 75,
+    "return_ID": 219,
+    "book_ID": 810,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 76,
+    "return_ID": 28,
+    "book_ID": 101,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 77,
+    "return_ID": 197,
+    "book_ID": 730,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 78,
+    "return_ID": 194,
+    "book_ID": 52,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 79,
+    "return_ID": 34,
+    "book_ID": 126,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 80,
+    "return_ID": 245,
+    "book_ID": 906,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 81,
+    "return_ID": 52,
+    "book_ID": 190,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 82,
+    "return_ID": 129,
+    "book_ID": 477,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 83,
+    "return_ID": 147,
+    "book_ID": 541,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 84,
+    "return_ID": 88,
+    "book_ID": 326,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 85,
+    "return_ID": 182,
+    "book_ID": 672,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 86,
+    "return_ID": 127,
+    "book_ID": 469,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 87,
+    "return_ID": 226,
+    "book_ID": 834,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 88,
+    "return_ID": 219,
+    "book_ID": 75,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 89,
+    "return_ID": 215,
+    "book_ID": 794,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 90,
+    "return_ID": 207,
+    "book_ID": 765,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 91,
+    "return_ID": 254,
+    "book_ID": 938,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 92,
+    "return_ID": 80,
+    "book_ID": 295,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 93,
+    "return_ID": 142,
+    "book_ID": 523,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 94,
+    "return_ID": 180,
+    "book_ID": 664,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 95,
+    "return_ID": 90,
+    "book_ID": 333,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 96,
+    "return_ID": 78,
+    "book_ID": 287,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 97,
+    "return_ID": 222,
+    "book_ID": 821,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 98,
+    "return_ID": 61,
+    "book_ID": 223,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 99,
+    "return_ID": 51,
+    "book_ID": 187,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 100,
+    "return_ID": 19,
+    "book_ID": 69,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 101,
+    "return_ID": 169,
+    "book_ID": 61,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 102,
+    "return_ID": 188,
+    "book_ID": 694,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 103,
+    "return_ID": 171,
+    "book_ID": 631,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 104,
+    "return_ID": 251,
+    "book_ID": 928,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 105,
+    "return_ID": 60,
+    "book_ID": 50,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 106,
+    "return_ID": 251,
+    "book_ID": 929,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 107,
+    "return_ID": 18,
+    "book_ID": 67,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 108,
+    "return_ID": 244,
+    "book_ID": 901,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 109,
+    "return_ID": 184,
+    "book_ID": 679,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 110,
+    "return_ID": 26,
+    "book_ID": 94,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 111,
+    "return_ID": 41,
+    "book_ID": 150,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 112,
+    "return_ID": 29,
+    "book_ID": 107,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 113,
+    "return_ID": 165,
+    "book_ID": 610,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 114,
+    "return_ID": 258,
+    "book_ID": 954,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 115,
+    "return_ID": 133,
+    "book_ID": 491,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 116,
+    "return_ID": 40,
+    "book_ID": 149,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 117,
+    "return_ID": 183,
+    "book_ID": 19,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 118,
+    "return_ID": 154,
+    "book_ID": 570,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 119,
+    "return_ID": 61,
+    "book_ID": 226,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 120,
+    "return_ID": 167,
+    "book_ID": 619,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 121,
+    "return_ID": 2,
+    "book_ID": 6,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 122,
+    "return_ID": 98,
+    "book_ID": 361,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 123,
+    "return_ID": 230,
+    "book_ID": 851,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 124,
+    "return_ID": 17,
+    "book_ID": 63,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 125,
+    "return_ID": 77,
+    "book_ID": 282,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 126,
+    "return_ID": 191,
+    "book_ID": 705,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 127,
+    "return_ID": 259,
+    "book_ID": 959,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 128,
+    "return_ID": 267,
+    "book_ID": 34,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 129,
+    "return_ID": 105,
+    "book_ID": 388,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 130,
+    "return_ID": 142,
+    "book_ID": 93,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 131,
+    "return_ID": 76,
+    "book_ID": 281,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 132,
+    "return_ID": 137,
+    "book_ID": 507,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 133,
+    "return_ID": 144,
+    "book_ID": 532,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 134,
+    "return_ID": 16,
+    "book_ID": 58,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 135,
+    "return_ID": 76,
+    "book_ID": 131,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 136,
+    "return_ID": 134,
+    "book_ID": 497,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 137,
+    "return_ID": 229,
+    "book_ID": 847,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 138,
+    "return_ID": 166,
+    "book_ID": 614,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 139,
+    "return_ID": 29,
+    "book_ID": 105,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 140,
+    "return_ID": 201,
+    "book_ID": 743,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 141,
+    "return_ID": 109,
+    "book_ID": 402,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 142,
+    "return_ID": 253,
+    "book_ID": 934,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 143,
+    "return_ID": 36,
+    "book_ID": 131,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 144,
+    "return_ID": 189,
+    "book_ID": 25,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 145,
+    "return_ID": 167,
+    "book_ID": 616,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 146,
+    "return_ID": 225,
+    "book_ID": 831,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 147,
+    "return_ID": 185,
+    "book_ID": 686,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 148,
+    "return_ID": 154,
+    "book_ID": 118,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 149,
+    "return_ID": 47,
+    "book_ID": 173,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 150,
+    "return_ID": 50,
+    "book_ID": 185,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 151,
+    "return_ID": 165,
+    "book_ID": 113,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 152,
+    "return_ID": 68,
+    "book_ID": 251,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 153,
+    "return_ID": 270,
+    "book_ID": 998,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 154,
+    "return_ID": 154,
+    "book_ID": 569,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 155,
+    "return_ID": 18,
+    "book_ID": 64,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 156,
+    "return_ID": 72,
+    "book_ID": 264,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 157,
+    "return_ID": 228,
+    "book_ID": 843,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 158,
+    "return_ID": 154,
+    "book_ID": 154,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 159,
+    "return_ID": 175,
+    "book_ID": 646,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 160,
+    "return_ID": 140,
+    "book_ID": 517,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 161,
+    "return_ID": 262,
+    "book_ID": 971,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 162,
+    "return_ID": 21,
+    "book_ID": 78,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 163,
+    "return_ID": 139,
+    "book_ID": 513,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 164,
+    "return_ID": 43,
+    "book_ID": 156,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 165,
+    "return_ID": 220,
+    "book_ID": 814,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 166,
+    "return_ID": 174,
+    "book_ID": 35,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 167,
+    "return_ID": 156,
+    "book_ID": 576,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 168,
+    "return_ID": 150,
+    "book_ID": 553,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 169,
+    "return_ID": 182,
+    "book_ID": 673,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 170,
+    "return_ID": 269,
+    "book_ID": 995,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 171,
+    "return_ID": 82,
+    "book_ID": 302,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 172,
+    "return_ID": 18,
+    "book_ID": 65,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 173,
+    "return_ID": 126,
+    "book_ID": 466,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 174,
+    "return_ID": 131,
+    "book_ID": 484,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 175,
+    "return_ID": 59,
+    "book_ID": 217,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 176,
+    "return_ID": 20,
+    "book_ID": 72,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 177,
+    "return_ID": 63,
+    "book_ID": 231,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 178,
+    "return_ID": 41,
+    "book_ID": 151,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 179,
+    "return_ID": 121,
+    "book_ID": 447,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 180,
+    "return_ID": 122,
+    "book_ID": 452,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 181,
+    "return_ID": 6,
+    "book_ID": 20,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 182,
+    "return_ID": 105,
+    "book_ID": 389,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 183,
+    "return_ID": 221,
+    "book_ID": 21,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 184,
+    "return_ID": 55,
+    "book_ID": 203,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 185,
+    "return_ID": 247,
+    "book_ID": 914,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 186,
+    "return_ID": 8,
+    "book_ID": 30,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 187,
+    "return_ID": 138,
+    "book_ID": 510,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 188,
+    "return_ID": 260,
+    "book_ID": 963,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 189,
+    "return_ID": 269,
+    "book_ID": 994,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 190,
+    "return_ID": 5,
+    "book_ID": 17,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 191,
+    "return_ID": 177,
+    "book_ID": 654,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 192,
+    "return_ID": 76,
+    "book_ID": 279,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 193,
+    "return_ID": 262,
+    "book_ID": 968,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 194,
+    "return_ID": 159,
+    "book_ID": 588,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 195,
+    "return_ID": 209,
+    "book_ID": 773,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 196,
+    "return_ID": 88,
+    "book_ID": 325,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 197,
+    "return_ID": 114,
+    "book_ID": 421,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 198,
+    "return_ID": 264,
+    "book_ID": 975,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 199,
+    "return_ID": 240,
+    "book_ID": 886,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 200,
+    "return_ID": 263,
+    "book_ID": 973,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 201,
+    "return_ID": 69,
+    "book_ID": 256,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 202,
+    "return_ID": 36,
+    "book_ID": 133,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 203,
+    "return_ID": 243,
+    "book_ID": 898,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 204,
+    "return_ID": 49,
+    "book_ID": 179,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 205,
+    "return_ID": 239,
+    "book_ID": 883,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 206,
+    "return_ID": 148,
+    "book_ID": 545,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 207,
+    "return_ID": 212,
+    "book_ID": 786,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 208,
+    "return_ID": 139,
+    "book_ID": 515,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 209,
+    "return_ID": 96,
+    "book_ID": 353,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 210,
+    "return_ID": 268,
+    "book_ID": 23,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 211,
+    "return_ID": 10,
+    "book_ID": 34,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 212,
+    "return_ID": 187,
+    "book_ID": 692,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 213,
+    "return_ID": 33,
+    "book_ID": 122,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 214,
+    "return_ID": 53,
+    "book_ID": 55,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 215,
+    "return_ID": 135,
+    "book_ID": 136,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 216,
+    "return_ID": 157,
+    "book_ID": 582,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 217,
+    "return_ID": 71,
+    "book_ID": 262,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 218,
+    "return_ID": 84,
+    "book_ID": 311,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 219,
+    "return_ID": 66,
+    "book_ID": 243,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 220,
+    "return_ID": 212,
+    "book_ID": 785,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 221,
+    "return_ID": 36,
+    "book_ID": 134,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 222,
+    "return_ID": 166,
+    "book_ID": 613,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 223,
+    "return_ID": 152,
+    "book_ID": 560,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 224,
+    "return_ID": 178,
+    "book_ID": 656,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 225,
+    "return_ID": 93,
+    "book_ID": 342,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 226,
+    "return_ID": 7,
+    "book_ID": 24,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 227,
+    "return_ID": 27,
+    "book_ID": 98,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 228,
+    "return_ID": 238,
+    "book_ID": 878,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 229,
+    "return_ID": 192,
+    "book_ID": 711,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 230,
+    "return_ID": 241,
+    "book_ID": 893,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 231,
+    "return_ID": 176,
+    "book_ID": 652,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 232,
+    "return_ID": 69,
+    "book_ID": 201,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 233,
+    "return_ID": 72,
+    "book_ID": 265,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 234,
+    "return_ID": 128,
+    "book_ID": 475,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 235,
+    "return_ID": 53,
+    "book_ID": 196,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 236,
+    "return_ID": 240,
+    "book_ID": 888,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 237,
+    "return_ID": 133,
+    "book_ID": 492,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 238,
+    "return_ID": 173,
+    "book_ID": 638,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 239,
+    "return_ID": 87,
+    "book_ID": 320,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 240,
+    "return_ID": 100,
+    "book_ID": 369,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 241,
+    "return_ID": 67,
+    "book_ID": 245,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 242,
+    "return_ID": 269,
+    "book_ID": 18,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 243,
+    "return_ID": 165,
+    "book_ID": 611,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 244,
+    "return_ID": 1,
+    "book_ID": 2,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 245,
+    "return_ID": 266,
+    "book_ID": 984,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 246,
+    "return_ID": 260,
+    "book_ID": 962,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 247,
+    "return_ID": 43,
+    "book_ID": 158,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 248,
+    "return_ID": 209,
+    "book_ID": 195,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 249,
+    "return_ID": 25,
+    "book_ID": 92,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 250,
+    "return_ID": 52,
+    "book_ID": 191,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 251,
+    "return_ID": 17,
+    "book_ID": 124,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 252,
+    "return_ID": 30,
+    "book_ID": 111,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 253,
+    "return_ID": 198,
+    "book_ID": 733,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 254,
+    "return_ID": 28,
+    "book_ID": 102,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 255,
+    "return_ID": 227,
+    "book_ID": 840,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 256,
+    "return_ID": 174,
+    "book_ID": 166,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 257,
+    "return_ID": 155,
+    "book_ID": 573,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 258,
+    "return_ID": 66,
+    "book_ID": 242,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 259,
+    "return_ID": 227,
+    "book_ID": 838,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 260,
+    "return_ID": 233,
+    "book_ID": 860,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 261,
+    "return_ID": 121,
+    "book_ID": 448,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 262,
+    "return_ID": 245,
+    "book_ID": 45,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 263,
+    "return_ID": 217,
+    "book_ID": 804,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 264,
+    "return_ID": 125,
+    "book_ID": 461,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 265,
+    "return_ID": 92,
+    "book_ID": 341,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 266,
+    "return_ID": 211,
+    "book_ID": 779,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 267,
+    "return_ID": 116,
+    "book_ID": 427,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 268,
+    "return_ID": 175,
+    "book_ID": 648,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 269,
+    "return_ID": 270,
+    "book_ID": 71,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 270,
+    "return_ID": 165,
+    "book_ID": 609,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 271,
+    "return_ID": 25,
+    "book_ID": 90,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 272,
+    "return_ID": 169,
+    "book_ID": 624,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 273,
+    "return_ID": 268,
+    "book_ID": 991,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 274,
+    "return_ID": 236,
+    "book_ID": 874,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 275,
+    "return_ID": 146,
+    "book_ID": 540,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 276,
+    "return_ID": 38,
+    "book_ID": 138,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 277,
+    "return_ID": 1,
+    "book_ID": 244,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 278,
+    "return_ID": 151,
+    "book_ID": 558,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 279,
+    "return_ID": 182,
+    "book_ID": 169,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 280,
+    "return_ID": 103,
+    "book_ID": 380,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 281,
+    "return_ID": 234,
+    "book_ID": 867,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 282,
+    "return_ID": 88,
+    "book_ID": 84,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 283,
+    "return_ID": 213,
+    "book_ID": 787,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 284,
+    "return_ID": 141,
+    "book_ID": 520,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 285,
+    "return_ID": 225,
+    "book_ID": 830,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 286,
+    "return_ID": 147,
+    "book_ID": 542,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 287,
+    "return_ID": 142,
+    "book_ID": 130,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 288,
+    "return_ID": 44,
+    "book_ID": 163,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 289,
+    "return_ID": 172,
+    "book_ID": 635,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 290,
+    "return_ID": 150,
+    "book_ID": 554,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 291,
+    "return_ID": 85,
+    "book_ID": 20,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 292,
+    "return_ID": 68,
+    "book_ID": 250,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 293,
+    "return_ID": 217,
+    "book_ID": 801,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 294,
+    "return_ID": 125,
+    "book_ID": 264,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 295,
+    "return_ID": 249,
+    "book_ID": 922,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 296,
+    "return_ID": 92,
+    "book_ID": 47,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 297,
+    "return_ID": 52,
+    "book_ID": 193,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 298,
+    "return_ID": 41,
+    "book_ID": 178,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 299,
+    "return_ID": 179,
+    "book_ID": 662,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 300,
+    "return_ID": 56,
+    "book_ID": 206,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 301,
+    "return_ID": 145,
+    "book_ID": 535,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 302,
+    "return_ID": 138,
+    "book_ID": 187,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 303,
+    "return_ID": 209,
+    "book_ID": 774,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 304,
+    "return_ID": 131,
+    "book_ID": 483,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 305,
+    "return_ID": 28,
+    "book_ID": 254,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 306,
+    "return_ID": 119,
+    "book_ID": 439,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 307,
+    "return_ID": 33,
+    "book_ID": 120,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 308,
+    "return_ID": 233,
+    "book_ID": 260,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 309,
+    "return_ID": 152,
+    "book_ID": 563,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 310,
+    "return_ID": 190,
+    "book_ID": 703,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 311,
+    "return_ID": 173,
+    "book_ID": 641,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 312,
+    "return_ID": 5,
+    "book_ID": 16,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 313,
+    "return_ID": 154,
+    "book_ID": 148,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 314,
+    "return_ID": 124,
+    "book_ID": 48,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 315,
+    "return_ID": 269,
+    "book_ID": 189,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 316,
+    "return_ID": 34,
+    "book_ID": 123,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 317,
+    "return_ID": 33,
+    "book_ID": 121,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 318,
+    "return_ID": 77,
+    "book_ID": 284,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 319,
+    "return_ID": 171,
+    "book_ID": 103,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 320,
+    "return_ID": 216,
+    "book_ID": 800,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 321,
+    "return_ID": 70,
+    "book_ID": 232,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 322,
+    "return_ID": 72,
+    "book_ID": 156,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 323,
+    "return_ID": 4,
+    "book_ID": 13,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 324,
+    "return_ID": 121,
+    "book_ID": 446,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 325,
+    "return_ID": 80,
+    "book_ID": 92,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 326,
+    "return_ID": 227,
+    "book_ID": 255,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 327,
+    "return_ID": 223,
+    "book_ID": 824,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 328,
+    "return_ID": 144,
+    "book_ID": 531,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 329,
+    "return_ID": 257,
+    "book_ID": 952,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 330,
+    "return_ID": 55,
+    "book_ID": 184,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 331,
+    "return_ID": 256,
+    "book_ID": 946,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 332,
+    "return_ID": 230,
+    "book_ID": 852,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 333,
+    "return_ID": 242,
+    "book_ID": 64,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 334,
+    "return_ID": 127,
+    "book_ID": 467,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 335,
+    "return_ID": 228,
+    "book_ID": 845,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 336,
+    "return_ID": 97,
+    "book_ID": 357,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 337,
+    "return_ID": 149,
+    "book_ID": 552,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 338,
+    "return_ID": 83,
+    "book_ID": 305,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 339,
+    "return_ID": 114,
+    "book_ID": 419,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 340,
+    "return_ID": 106,
+    "book_ID": 391,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 341,
+    "return_ID": 114,
+    "book_ID": 422,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 342,
+    "return_ID": 179,
+    "book_ID": 663,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 343,
+    "return_ID": 163,
+    "book_ID": 601,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 344,
+    "return_ID": 252,
+    "book_ID": 932,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 345,
+    "return_ID": 247,
+    "book_ID": 913,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 346,
+    "return_ID": 81,
+    "book_ID": 300,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 347,
+    "return_ID": 184,
+    "book_ID": 681,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 348,
+    "return_ID": 93,
+    "book_ID": 343,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 349,
+    "return_ID": 127,
+    "book_ID": 334,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 350,
+    "return_ID": 216,
+    "book_ID": 320,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 351,
+    "return_ID": 59,
+    "book_ID": 175,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 352,
+    "return_ID": 246,
+    "book_ID": 910,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 353,
+    "return_ID": 141,
+    "book_ID": 284,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 354,
+    "return_ID": 233,
+    "book_ID": 17,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 355,
+    "return_ID": 257,
+    "book_ID": 950,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 356,
+    "return_ID": 74,
+    "book_ID": 271,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 357,
+    "return_ID": 135,
+    "book_ID": 215,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 358,
+    "return_ID": 89,
+    "book_ID": 328,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 359,
+    "return_ID": 51,
+    "book_ID": 189,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 360,
+    "return_ID": 71,
+    "book_ID": 217,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 361,
+    "return_ID": 167,
+    "book_ID": 145,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 362,
+    "return_ID": 160,
+    "book_ID": 589,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 363,
+    "return_ID": 246,
+    "book_ID": 909,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 364,
+    "return_ID": 98,
+    "book_ID": 122,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 365,
+    "return_ID": 205,
+    "book_ID": 757,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 366,
+    "return_ID": 214,
+    "book_ID": 789,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 367,
+    "return_ID": 33,
+    "book_ID": 307,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 368,
+    "return_ID": 28,
+    "book_ID": 103,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 369,
+    "return_ID": 166,
+    "book_ID": 138,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 370,
+    "return_ID": 173,
+    "book_ID": 238,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 371,
+    "return_ID": 155,
+    "book_ID": 571,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 372,
+    "return_ID": 221,
+    "book_ID": 183,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 373,
+    "return_ID": 234,
+    "book_ID": 865,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 374,
+    "return_ID": 65,
+    "book_ID": 240,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 375,
+    "return_ID": 102,
+    "book_ID": 378,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 376,
+    "return_ID": 161,
+    "book_ID": 593,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 377,
+    "return_ID": 180,
+    "book_ID": 94,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 378,
+    "return_ID": 22,
+    "book_ID": 81,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 379,
+    "return_ID": 144,
+    "book_ID": 534,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 380,
+    "return_ID": 269,
+    "book_ID": 242,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 381,
+    "return_ID": 43,
+    "book_ID": 160,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 382,
+    "return_ID": 130,
+    "book_ID": 481,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 383,
+    "return_ID": 18,
+    "book_ID": 155,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 384,
+    "return_ID": 42,
+    "book_ID": 153,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 385,
+    "return_ID": 267,
+    "book_ID": 986,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 386,
+    "return_ID": 10,
+    "book_ID": 37,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 387,
+    "return_ID": 90,
+    "book_ID": 95,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 388,
+    "return_ID": 10,
+    "book_ID": 35,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 389,
+    "return_ID": 140,
+    "book_ID": 518,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 390,
+    "return_ID": 155,
+    "book_ID": 574,
+    "detail_numberofcopies": 1
+  },
+  {
+    "detail_ID": 391,
+    "return_ID": 232,
+    "book_ID": 308,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 392,
+    "return_ID": 61,
+    "book_ID": 225,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 393,
+    "return_ID": 32,
+    "book_ID": 117,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 394,
+    "return_ID": 43,
+    "book_ID": 247,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 395,
+    "return_ID": 210,
+    "book_ID": 776,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 396,
+    "return_ID": 225,
+    "book_ID": 833,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 397,
+    "return_ID": 204,
+    "book_ID": 755,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 398,
+    "return_ID": 65,
+    "book_ID": 241,
+    "detail_numberofcopies": 3
+  },
+  {
+    "detail_ID": 399,
+    "return_ID": 48,
+    "book_ID": 176,
+    "detail_numberofcopies": 2
+  },
+  {
+    "detail_ID": 400,
+    "return_ID": 34,
+    "book_ID": 124,
+    "detail_numberofcopies": 1
+  }
+]

@@ -1,0 +1,4802 @@
+[
+  {
+    "details_ID": 1,
+    "borrowers_ID": 364,
+    "book_ID": 727,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 2,
+    "borrowers_ID": 409,
+    "book_ID": 818,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 3,
+    "borrowers_ID": 385,
+    "book_ID": 769,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 4,
+    "borrowers_ID": 280,
+    "book_ID": 559,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 5,
+    "borrowers_ID": 104,
+    "book_ID": 207,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 6,
+    "borrowers_ID": 280,
+    "book_ID": 4,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 7,
+    "borrowers_ID": 454,
+    "book_ID": 907,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 8,
+    "borrowers_ID": 222,
+    "book_ID": 443,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 9,
+    "borrowers_ID": 489,
+    "book_ID": 978,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 10,
+    "borrowers_ID": 137,
+    "book_ID": 274,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 11,
+    "borrowers_ID": 146,
+    "book_ID": 292,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 12,
+    "borrowers_ID": 234,
+    "book_ID": 468,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 13,
+    "borrowers_ID": 317,
+    "book_ID": 633,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 14,
+    "borrowers_ID": 235,
+    "book_ID": 470,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 15,
+    "borrowers_ID": 492,
+    "book_ID": 983,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 16,
+    "borrowers_ID": 16,
+    "book_ID": 31,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 17,
+    "borrowers_ID": 432,
+    "book_ID": 863,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 18,
+    "borrowers_ID": 498,
+    "book_ID": 996,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 19,
+    "borrowers_ID": 339,
+    "book_ID": 678,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 20,
+    "borrowers_ID": 158,
+    "book_ID": 315,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 21,
+    "borrowers_ID": 409,
+    "book_ID": 817,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 22,
+    "borrowers_ID": 425,
+    "book_ID": 849,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 23,
+    "borrowers_ID": 496,
+    "book_ID": 992,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 24,
+    "borrowers_ID": 17,
+    "book_ID": 33,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 25,
+    "borrowers_ID": 350,
+    "book_ID": 700,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 26,
+    "borrowers_ID": 264,
+    "book_ID": 527,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 27,
+    "borrowers_ID": 468,
+    "book_ID": 935,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 28,
+    "borrowers_ID": 344,
+    "book_ID": 688,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 29,
+    "borrowers_ID": 274,
+    "book_ID": 547,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 30,
+    "borrowers_ID": 41,
+    "book_ID": 82,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 31,
+    "borrowers_ID": 94,
+    "book_ID": 188,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 32,
+    "borrowers_ID": 227,
+    "book_ID": 454,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 33,
+    "borrowers_ID": 149,
+    "book_ID": 298,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 34,
+    "borrowers_ID": 495,
+    "book_ID": 989,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 35,
+    "borrowers_ID": 322,
+    "book_ID": 643,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 36,
+    "borrowers_ID": 382,
+    "book_ID": 763,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 37,
+    "borrowers_ID": 16,
+    "book_ID": 16,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 38,
+    "borrowers_ID": 191,
+    "book_ID": 382,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 39,
+    "borrowers_ID": 172,
+    "book_ID": 344,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 40,
+    "borrowers_ID": 479,
+    "book_ID": 958,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 41,
+    "borrowers_ID": 253,
+    "book_ID": 506,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 42,
+    "borrowers_ID": 358,
+    "book_ID": 716,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 43,
+    "borrowers_ID": 60,
+    "book_ID": 119,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 44,
+    "borrowers_ID": 137,
+    "book_ID": 10,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 45,
+    "borrowers_ID": 454,
+    "book_ID": 908,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 46,
+    "borrowers_ID": 398,
+    "book_ID": 795,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 47,
+    "borrowers_ID": 169,
+    "book_ID": 338,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 48,
+    "borrowers_ID": 229,
+    "book_ID": 458,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 49,
+    "borrowers_ID": 74,
+    "book_ID": 147,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 50,
+    "borrowers_ID": 111,
+    "book_ID": 222,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 51,
+    "borrowers_ID": 206,
+    "book_ID": 411,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 52,
+    "borrowers_ID": 360,
+    "book_ID": 719,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 53,
+    "borrowers_ID": 310,
+    "book_ID": 620,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 54,
+    "borrowers_ID": 244,
+    "book_ID": 488,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 55,
+    "borrowers_ID": 98,
+    "book_ID": 195,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 56,
+    "borrowers_ID": 440,
+    "book_ID": 879,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 57,
+    "borrowers_ID": 413,
+    "book_ID": 826,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 58,
+    "borrowers_ID": 368,
+    "book_ID": 736,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 59,
+    "borrowers_ID": 430,
+    "book_ID": 859,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 60,
+    "borrowers_ID": 340,
+    "book_ID": 680,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 61,
+    "borrowers_ID": 313,
+    "book_ID": 625,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 62,
+    "borrowers_ID": 110,
+    "book_ID": 219,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 63,
+    "borrowers_ID": 448,
+    "book_ID": 896,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 64,
+    "borrowers_ID": 449,
+    "book_ID": 897,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 65,
+    "borrowers_ID": 44,
+    "book_ID": 87,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 66,
+    "borrowers_ID": 420,
+    "book_ID": 839,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 67,
+    "borrowers_ID": 86,
+    "book_ID": 171,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 68,
+    "borrowers_ID": 323,
+    "book_ID": 645,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 69,
+    "borrowers_ID": 414,
+    "book_ID": 827,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 70,
+    "borrowers_ID": 110,
+    "book_ID": 220,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 71,
+    "borrowers_ID": 500,
+    "book_ID": 1000,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 72,
+    "borrowers_ID": 241,
+    "book_ID": 482,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 73,
+    "borrowers_ID": 327,
+    "book_ID": 653,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 74,
+    "borrowers_ID": 360,
+    "book_ID": 720,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 75,
+    "borrowers_ID": 405,
+    "book_ID": 810,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 76,
+    "borrowers_ID": 51,
+    "book_ID": 101,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 77,
+    "borrowers_ID": 365,
+    "book_ID": 730,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 78,
+    "borrowers_ID": 360,
+    "book_ID": 52,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 79,
+    "borrowers_ID": 63,
+    "book_ID": 126,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 80,
+    "borrowers_ID": 453,
+    "book_ID": 906,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 81,
+    "borrowers_ID": 95,
+    "book_ID": 190,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 82,
+    "borrowers_ID": 239,
+    "book_ID": 477,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 83,
+    "borrowers_ID": 271,
+    "book_ID": 541,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 84,
+    "borrowers_ID": 163,
+    "book_ID": 326,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 85,
+    "borrowers_ID": 336,
+    "book_ID": 672,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 86,
+    "borrowers_ID": 235,
+    "book_ID": 469,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 87,
+    "borrowers_ID": 417,
+    "book_ID": 834,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 88,
+    "borrowers_ID": 405,
+    "book_ID": 75,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 89,
+    "borrowers_ID": 397,
+    "book_ID": 794,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 90,
+    "borrowers_ID": 383,
+    "book_ID": 765,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 91,
+    "borrowers_ID": 469,
+    "book_ID": 938,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 92,
+    "borrowers_ID": 148,
+    "book_ID": 295,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 93,
+    "borrowers_ID": 262,
+    "book_ID": 523,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 94,
+    "borrowers_ID": 332,
+    "book_ID": 664,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 95,
+    "borrowers_ID": 167,
+    "book_ID": 333,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 96,
+    "borrowers_ID": 144,
+    "book_ID": 287,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 97,
+    "borrowers_ID": 411,
+    "book_ID": 821,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 98,
+    "borrowers_ID": 112,
+    "book_ID": 223,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 99,
+    "borrowers_ID": 94,
+    "book_ID": 187,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 100,
+    "borrowers_ID": 35,
+    "book_ID": 69,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 101,
+    "borrowers_ID": 313,
+    "book_ID": 61,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 102,
+    "borrowers_ID": 347,
+    "book_ID": 694,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 103,
+    "borrowers_ID": 316,
+    "book_ID": 631,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 104,
+    "borrowers_ID": 464,
+    "book_ID": 928,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 105,
+    "borrowers_ID": 111,
+    "book_ID": 50,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 106,
+    "borrowers_ID": 465,
+    "book_ID": 929,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 107,
+    "borrowers_ID": 34,
+    "book_ID": 67,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 108,
+    "borrowers_ID": 451,
+    "book_ID": 901,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 109,
+    "borrowers_ID": 340,
+    "book_ID": 679,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 110,
+    "borrowers_ID": 47,
+    "book_ID": 94,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 111,
+    "borrowers_ID": 75,
+    "book_ID": 150,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 112,
+    "borrowers_ID": 54,
+    "book_ID": 107,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 113,
+    "borrowers_ID": 305,
+    "book_ID": 610,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 114,
+    "borrowers_ID": 477,
+    "book_ID": 954,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 115,
+    "borrowers_ID": 246,
+    "book_ID": 491,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 116,
+    "borrowers_ID": 75,
+    "book_ID": 149,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 117,
+    "borrowers_ID": 339,
+    "book_ID": 19,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 118,
+    "borrowers_ID": 285,
+    "book_ID": 570,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 119,
+    "borrowers_ID": 113,
+    "book_ID": 226,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 120,
+    "borrowers_ID": 310,
+    "book_ID": 619,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 121,
+    "borrowers_ID": 3,
+    "book_ID": 6,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 122,
+    "borrowers_ID": 181,
+    "book_ID": 361,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 123,
+    "borrowers_ID": 426,
+    "book_ID": 851,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 124,
+    "borrowers_ID": 32,
+    "book_ID": 63,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 125,
+    "borrowers_ID": 141,
+    "book_ID": 282,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 126,
+    "borrowers_ID": 353,
+    "book_ID": 705,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 127,
+    "borrowers_ID": 480,
+    "book_ID": 959,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 128,
+    "borrowers_ID": 495,
+    "book_ID": 34,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 129,
+    "borrowers_ID": 194,
+    "book_ID": 388,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 130,
+    "borrowers_ID": 262,
+    "book_ID": 93,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 131,
+    "borrowers_ID": 141,
+    "book_ID": 281,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 132,
+    "borrowers_ID": 254,
+    "book_ID": 507,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 133,
+    "borrowers_ID": 266,
+    "book_ID": 532,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 134,
+    "borrowers_ID": 29,
+    "book_ID": 58,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 135,
+    "borrowers_ID": 141,
+    "book_ID": 131,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 136,
+    "borrowers_ID": 249,
+    "book_ID": 497,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 137,
+    "borrowers_ID": 424,
+    "book_ID": 847,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 138,
+    "borrowers_ID": 307,
+    "book_ID": 614,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 139,
+    "borrowers_ID": 53,
+    "book_ID": 105,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 140,
+    "borrowers_ID": 372,
+    "book_ID": 743,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 141,
+    "borrowers_ID": 201,
+    "book_ID": 402,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 142,
+    "borrowers_ID": 467,
+    "book_ID": 934,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 143,
+    "borrowers_ID": 66,
+    "book_ID": 131,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 144,
+    "borrowers_ID": 350,
+    "book_ID": 25,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 145,
+    "borrowers_ID": 308,
+    "book_ID": 616,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 146,
+    "borrowers_ID": 416,
+    "book_ID": 831,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 147,
+    "borrowers_ID": 343,
+    "book_ID": 686,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 148,
+    "borrowers_ID": 285,
+    "book_ID": 118,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 149,
+    "borrowers_ID": 87,
+    "book_ID": 173,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 150,
+    "borrowers_ID": 93,
+    "book_ID": 185,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 151,
+    "borrowers_ID": 305,
+    "book_ID": 113,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 152,
+    "borrowers_ID": 126,
+    "book_ID": 251,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 153,
+    "borrowers_ID": 499,
+    "book_ID": 998,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 154,
+    "borrowers_ID": 285,
+    "book_ID": 569,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 155,
+    "borrowers_ID": 32,
+    "book_ID": 64,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 156,
+    "borrowers_ID": 132,
+    "book_ID": 264,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 157,
+    "borrowers_ID": 422,
+    "book_ID": 843,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 158,
+    "borrowers_ID": 285,
+    "book_ID": 154,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 159,
+    "borrowers_ID": 323,
+    "book_ID": 646,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 160,
+    "borrowers_ID": 259,
+    "book_ID": 517,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 161,
+    "borrowers_ID": 486,
+    "book_ID": 971,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 162,
+    "borrowers_ID": 39,
+    "book_ID": 78,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 163,
+    "borrowers_ID": 257,
+    "book_ID": 513,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 164,
+    "borrowers_ID": 78,
+    "book_ID": 156,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 165,
+    "borrowers_ID": 407,
+    "book_ID": 814,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 166,
+    "borrowers_ID": 322,
+    "book_ID": 35,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 167,
+    "borrowers_ID": 288,
+    "book_ID": 576,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 168,
+    "borrowers_ID": 277,
+    "book_ID": 553,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 169,
+    "borrowers_ID": 337,
+    "book_ID": 673,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 170,
+    "borrowers_ID": 498,
+    "book_ID": 995,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 171,
+    "borrowers_ID": 151,
+    "book_ID": 302,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 172,
+    "borrowers_ID": 33,
+    "book_ID": 65,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 173,
+    "borrowers_ID": 233,
+    "book_ID": 466,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 174,
+    "borrowers_ID": 242,
+    "book_ID": 484,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 175,
+    "borrowers_ID": 109,
+    "book_ID": 217,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 176,
+    "borrowers_ID": 36,
+    "book_ID": 72,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 177,
+    "borrowers_ID": 116,
+    "book_ID": 231,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 178,
+    "borrowers_ID": 76,
+    "book_ID": 151,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 179,
+    "borrowers_ID": 224,
+    "book_ID": 447,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 180,
+    "borrowers_ID": 226,
+    "book_ID": 452,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 181,
+    "borrowers_ID": 10,
+    "book_ID": 20,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 182,
+    "borrowers_ID": 195,
+    "book_ID": 389,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 183,
+    "borrowers_ID": 409,
+    "book_ID": 21,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 184,
+    "borrowers_ID": 102,
+    "book_ID": 203,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 185,
+    "borrowers_ID": 457,
+    "book_ID": 914,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 186,
+    "borrowers_ID": 15,
+    "book_ID": 30,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 187,
+    "borrowers_ID": 255,
+    "book_ID": 510,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 188,
+    "borrowers_ID": 482,
+    "book_ID": 963,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 189,
+    "borrowers_ID": 497,
+    "book_ID": 994,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 190,
+    "borrowers_ID": 9,
+    "book_ID": 17,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 191,
+    "borrowers_ID": 327,
+    "book_ID": 654,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 192,
+    "borrowers_ID": 140,
+    "book_ID": 279,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 193,
+    "borrowers_ID": 484,
+    "book_ID": 968,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 194,
+    "borrowers_ID": 294,
+    "book_ID": 588,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 195,
+    "borrowers_ID": 387,
+    "book_ID": 773,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 196,
+    "borrowers_ID": 163,
+    "book_ID": 325,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 197,
+    "borrowers_ID": 211,
+    "book_ID": 421,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 198,
+    "borrowers_ID": 488,
+    "book_ID": 975,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 199,
+    "borrowers_ID": 443,
+    "book_ID": 886,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 200,
+    "borrowers_ID": 487,
+    "book_ID": 973,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 201,
+    "borrowers_ID": 128,
+    "book_ID": 256,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 202,
+    "borrowers_ID": 67,
+    "book_ID": 133,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 203,
+    "borrowers_ID": 449,
+    "book_ID": 898,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 204,
+    "borrowers_ID": 90,
+    "book_ID": 179,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 205,
+    "borrowers_ID": 442,
+    "book_ID": 883,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 206,
+    "borrowers_ID": 273,
+    "book_ID": 545,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 207,
+    "borrowers_ID": 393,
+    "book_ID": 786,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 208,
+    "borrowers_ID": 258,
+    "book_ID": 515,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 209,
+    "borrowers_ID": 177,
+    "book_ID": 353,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 210,
+    "borrowers_ID": 496,
+    "book_ID": 23,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 211,
+    "borrowers_ID": 17,
+    "book_ID": 34,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 212,
+    "borrowers_ID": 346,
+    "book_ID": 692,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 213,
+    "borrowers_ID": 61,
+    "book_ID": 122,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 214,
+    "borrowers_ID": 98,
+    "book_ID": 55,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 215,
+    "borrowers_ID": 249,
+    "book_ID": 136,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 216,
+    "borrowers_ID": 291,
+    "book_ID": 582,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 217,
+    "borrowers_ID": 131,
+    "book_ID": 262,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 218,
+    "borrowers_ID": 156,
+    "book_ID": 311,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 219,
+    "borrowers_ID": 122,
+    "book_ID": 243,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 220,
+    "borrowers_ID": 393,
+    "book_ID": 785,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 221,
+    "borrowers_ID": 67,
+    "book_ID": 134,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 222,
+    "borrowers_ID": 307,
+    "book_ID": 613,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 223,
+    "borrowers_ID": 280,
+    "book_ID": 560,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 224,
+    "borrowers_ID": 328,
+    "book_ID": 656,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 225,
+    "borrowers_ID": 171,
+    "book_ID": 342,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 226,
+    "borrowers_ID": 12,
+    "book_ID": 24,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 227,
+    "borrowers_ID": 49,
+    "book_ID": 98,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 228,
+    "borrowers_ID": 439,
+    "book_ID": 878,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 229,
+    "borrowers_ID": 356,
+    "book_ID": 711,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 230,
+    "borrowers_ID": 447,
+    "book_ID": 893,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 231,
+    "borrowers_ID": 326,
+    "book_ID": 652,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 232,
+    "borrowers_ID": 128,
+    "book_ID": 201,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 233,
+    "borrowers_ID": 133,
+    "book_ID": 265,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 234,
+    "borrowers_ID": 238,
+    "book_ID": 475,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 235,
+    "borrowers_ID": 98,
+    "book_ID": 196,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 236,
+    "borrowers_ID": 444,
+    "book_ID": 888,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 237,
+    "borrowers_ID": 246,
+    "book_ID": 492,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 238,
+    "borrowers_ID": 319,
+    "book_ID": 638,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 239,
+    "borrowers_ID": 160,
+    "book_ID": 320,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 240,
+    "borrowers_ID": 185,
+    "book_ID": 369,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 241,
+    "borrowers_ID": 123,
+    "book_ID": 245,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 242,
+    "borrowers_ID": 498,
+    "book_ID": 18,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 243,
+    "borrowers_ID": 306,
+    "book_ID": 611,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 244,
+    "borrowers_ID": 1,
+    "book_ID": 2,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 245,
+    "borrowers_ID": 492,
+    "book_ID": 984,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 246,
+    "borrowers_ID": 481,
+    "book_ID": 962,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 247,
+    "borrowers_ID": 79,
+    "book_ID": 158,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 248,
+    "borrowers_ID": 387,
+    "book_ID": 195,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 249,
+    "borrowers_ID": 46,
+    "book_ID": 92,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 250,
+    "borrowers_ID": 96,
+    "book_ID": 191,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 251,
+    "borrowers_ID": 32,
+    "book_ID": 124,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 252,
+    "borrowers_ID": 56,
+    "book_ID": 111,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 253,
+    "borrowers_ID": 367,
+    "book_ID": 733,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 254,
+    "borrowers_ID": 51,
+    "book_ID": 102,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 255,
+    "borrowers_ID": 420,
+    "book_ID": 840,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 256,
+    "borrowers_ID": 322,
+    "book_ID": 166,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 257,
+    "borrowers_ID": 287,
+    "book_ID": 573,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 258,
+    "borrowers_ID": 121,
+    "book_ID": 242,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 259,
+    "borrowers_ID": 419,
+    "book_ID": 838,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 260,
+    "borrowers_ID": 430,
+    "book_ID": 860,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 261,
+    "borrowers_ID": 224,
+    "book_ID": 448,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 262,
+    "borrowers_ID": 454,
+    "book_ID": 45,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 263,
+    "borrowers_ID": 402,
+    "book_ID": 804,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 264,
+    "borrowers_ID": 231,
+    "book_ID": 461,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 265,
+    "borrowers_ID": 171,
+    "book_ID": 341,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 266,
+    "borrowers_ID": 390,
+    "book_ID": 779,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 267,
+    "borrowers_ID": 214,
+    "book_ID": 427,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 268,
+    "borrowers_ID": 324,
+    "book_ID": 648,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 269,
+    "borrowers_ID": 500,
+    "book_ID": 71,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 270,
+    "borrowers_ID": 305,
+    "book_ID": 609,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 271,
+    "borrowers_ID": 45,
+    "book_ID": 90,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 272,
+    "borrowers_ID": 312,
+    "book_ID": 624,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 273,
+    "borrowers_ID": 496,
+    "book_ID": 991,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 274,
+    "borrowers_ID": 437,
+    "book_ID": 874,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 275,
+    "borrowers_ID": 270,
+    "book_ID": 540,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 276,
+    "borrowers_ID": 69,
+    "book_ID": 138,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 277,
+    "borrowers_ID": 1,
+    "book_ID": 244,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 278,
+    "borrowers_ID": 279,
+    "book_ID": 558,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 279,
+    "borrowers_ID": 337,
+    "book_ID": 169,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 280,
+    "borrowers_ID": 190,
+    "book_ID": 380,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 281,
+    "borrowers_ID": 434,
+    "book_ID": 867,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 282,
+    "borrowers_ID": 163,
+    "book_ID": 84,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 283,
+    "borrowers_ID": 394,
+    "book_ID": 787,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 284,
+    "borrowers_ID": 260,
+    "book_ID": 520,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 285,
+    "borrowers_ID": 415,
+    "book_ID": 830,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 286,
+    "borrowers_ID": 271,
+    "book_ID": 542,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 287,
+    "borrowers_ID": 262,
+    "book_ID": 130,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 288,
+    "borrowers_ID": 82,
+    "book_ID": 163,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 289,
+    "borrowers_ID": 318,
+    "book_ID": 635,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 290,
+    "borrowers_ID": 277,
+    "book_ID": 554,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 291,
+    "borrowers_ID": 158,
+    "book_ID": 20,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 292,
+    "borrowers_ID": 125,
+    "book_ID": 250,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 293,
+    "borrowers_ID": 401,
+    "book_ID": 801,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 294,
+    "borrowers_ID": 231,
+    "book_ID": 264,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 295,
+    "borrowers_ID": 461,
+    "book_ID": 922,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 296,
+    "borrowers_ID": 169,
+    "book_ID": 47,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 297,
+    "borrowers_ID": 97,
+    "book_ID": 193,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 298,
+    "borrowers_ID": 76,
+    "book_ID": 178,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 299,
+    "borrowers_ID": 331,
+    "book_ID": 662,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 300,
+    "borrowers_ID": 103,
+    "book_ID": 206,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 301,
+    "borrowers_ID": 268,
+    "book_ID": 535,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 302,
+    "borrowers_ID": 255,
+    "book_ID": 187,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 303,
+    "borrowers_ID": 387,
+    "book_ID": 774,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 304,
+    "borrowers_ID": 242,
+    "book_ID": 483,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 305,
+    "borrowers_ID": 51,
+    "book_ID": 254,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 306,
+    "borrowers_ID": 220,
+    "book_ID": 439,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 307,
+    "borrowers_ID": 60,
+    "book_ID": 120,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 308,
+    "borrowers_ID": 430,
+    "book_ID": 260,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 309,
+    "borrowers_ID": 282,
+    "book_ID": 563,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 310,
+    "borrowers_ID": 352,
+    "book_ID": 703,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 311,
+    "borrowers_ID": 321,
+    "book_ID": 641,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 312,
+    "borrowers_ID": 8,
+    "book_ID": 16,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 313,
+    "borrowers_ID": 285,
+    "book_ID": 148,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 314,
+    "borrowers_ID": 229,
+    "book_ID": 48,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 315,
+    "borrowers_ID": 497,
+    "book_ID": 189,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 316,
+    "borrowers_ID": 62,
+    "book_ID": 123,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 317,
+    "borrowers_ID": 61,
+    "book_ID": 121,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 318,
+    "borrowers_ID": 142,
+    "book_ID": 284,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 319,
+    "borrowers_ID": 316,
+    "book_ID": 103,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 320,
+    "borrowers_ID": 400,
+    "book_ID": 800,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 321,
+    "borrowers_ID": 128,
+    "book_ID": 232,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 322,
+    "borrowers_ID": 132,
+    "book_ID": 156,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 323,
+    "borrowers_ID": 7,
+    "book_ID": 13,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 324,
+    "borrowers_ID": 223,
+    "book_ID": 446,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 325,
+    "borrowers_ID": 148,
+    "book_ID": 92,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 326,
+    "borrowers_ID": 420,
+    "book_ID": 255,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 327,
+    "borrowers_ID": 412,
+    "book_ID": 824,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 328,
+    "borrowers_ID": 266,
+    "book_ID": 531,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 329,
+    "borrowers_ID": 476,
+    "book_ID": 952,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 330,
+    "borrowers_ID": 102,
+    "book_ID": 184,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 331,
+    "borrowers_ID": 473,
+    "book_ID": 946,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 332,
+    "borrowers_ID": 426,
+    "book_ID": 852,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 333,
+    "borrowers_ID": 449,
+    "book_ID": 64,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 334,
+    "borrowers_ID": 234,
+    "book_ID": 467,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 335,
+    "borrowers_ID": 423,
+    "book_ID": 845,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 336,
+    "borrowers_ID": 179,
+    "book_ID": 357,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 337,
+    "borrowers_ID": 276,
+    "book_ID": 552,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 338,
+    "borrowers_ID": 153,
+    "book_ID": 305,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 339,
+    "borrowers_ID": 210,
+    "book_ID": 419,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 340,
+    "borrowers_ID": 196,
+    "book_ID": 391,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 341,
+    "borrowers_ID": 211,
+    "book_ID": 422,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 342,
+    "borrowers_ID": 332,
+    "book_ID": 663,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 343,
+    "borrowers_ID": 301,
+    "book_ID": 601,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 344,
+    "borrowers_ID": 466,
+    "book_ID": 932,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 345,
+    "borrowers_ID": 457,
+    "book_ID": 913,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 346,
+    "borrowers_ID": 150,
+    "book_ID": 300,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 347,
+    "borrowers_ID": 341,
+    "book_ID": 681,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 348,
+    "borrowers_ID": 172,
+    "book_ID": 343,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 349,
+    "borrowers_ID": 234,
+    "book_ID": 334,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 350,
+    "borrowers_ID": 400,
+    "book_ID": 320,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 351,
+    "borrowers_ID": 109,
+    "book_ID": 175,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 352,
+    "borrowers_ID": 455,
+    "book_ID": 910,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 353,
+    "borrowers_ID": 260,
+    "book_ID": 284,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 354,
+    "borrowers_ID": 432,
+    "book_ID": 17,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 355,
+    "borrowers_ID": 475,
+    "book_ID": 950,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 356,
+    "borrowers_ID": 136,
+    "book_ID": 271,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 357,
+    "borrowers_ID": 249,
+    "book_ID": 215,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 358,
+    "borrowers_ID": 164,
+    "book_ID": 328,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 359,
+    "borrowers_ID": 95,
+    "book_ID": 189,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 360,
+    "borrowers_ID": 131,
+    "book_ID": 217,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 361,
+    "borrowers_ID": 308,
+    "book_ID": 145,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 362,
+    "borrowers_ID": 295,
+    "book_ID": 589,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 363,
+    "borrowers_ID": 455,
+    "book_ID": 909,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 364,
+    "borrowers_ID": 181,
+    "book_ID": 122,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 365,
+    "borrowers_ID": 379,
+    "book_ID": 757,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 366,
+    "borrowers_ID": 395,
+    "book_ID": 789,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 367,
+    "borrowers_ID": 60,
+    "book_ID": 307,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 368,
+    "borrowers_ID": 52,
+    "book_ID": 103,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 369,
+    "borrowers_ID": 307,
+    "book_ID": 138,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 370,
+    "borrowers_ID": 319,
+    "book_ID": 238,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 371,
+    "borrowers_ID": 286,
+    "book_ID": 571,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 372,
+    "borrowers_ID": 409,
+    "book_ID": 183,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 373,
+    "borrowers_ID": 433,
+    "book_ID": 865,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 374,
+    "borrowers_ID": 120,
+    "book_ID": 240,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 375,
+    "borrowers_ID": 189,
+    "book_ID": 378,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 376,
+    "borrowers_ID": 297,
+    "book_ID": 593,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 377,
+    "borrowers_ID": 332,
+    "book_ID": 94,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 378,
+    "borrowers_ID": 41,
+    "book_ID": 81,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 379,
+    "borrowers_ID": 267,
+    "book_ID": 534,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 380,
+    "borrowers_ID": 498,
+    "book_ID": 242,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 381,
+    "borrowers_ID": 80,
+    "book_ID": 160,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 382,
+    "borrowers_ID": 241,
+    "book_ID": 481,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 383,
+    "borrowers_ID": 32,
+    "book_ID": 155,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 384,
+    "borrowers_ID": 77,
+    "book_ID": 153,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 385,
+    "borrowers_ID": 493,
+    "book_ID": 986,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 386,
+    "borrowers_ID": 19,
+    "book_ID": 37,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 387,
+    "borrowers_ID": 167,
+    "book_ID": 95,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 388,
+    "borrowers_ID": 18,
+    "book_ID": 35,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 389,
+    "borrowers_ID": 259,
+    "book_ID": 518,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 390,
+    "borrowers_ID": 287,
+    "book_ID": 574,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 391,
+    "borrowers_ID": 430,
+    "book_ID": 308,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 392,
+    "borrowers_ID": 113,
+    "book_ID": 225,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 393,
+    "borrowers_ID": 59,
+    "book_ID": 117,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 394,
+    "borrowers_ID": 79,
+    "book_ID": 247,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 395,
+    "borrowers_ID": 388,
+    "book_ID": 776,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 396,
+    "borrowers_ID": 417,
+    "book_ID": 833,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 397,
+    "borrowers_ID": 378,
+    "book_ID": 755,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 398,
+    "borrowers_ID": 121,
+    "book_ID": 241,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 399,
+    "borrowers_ID": 88,
+    "book_ID": 176,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 400,
+    "borrowers_ID": 62,
+    "book_ID": 124,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 401,
+    "borrowers_ID": 90,
+    "book_ID": 180,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 402,
+    "borrowers_ID": 289,
+    "book_ID": 578,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 403,
+    "borrowers_ID": 365,
+    "book_ID": 77,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 404,
+    "borrowers_ID": 415,
+    "book_ID": 285,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 405,
+    "borrowers_ID": 115,
+    "book_ID": 229,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 406,
+    "borrowers_ID": 201,
+    "book_ID": 401,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 407,
+    "borrowers_ID": 23,
+    "book_ID": 45,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 408,
+    "borrowers_ID": 141,
+    "book_ID": 135,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 409,
+    "borrowers_ID": 243,
+    "book_ID": 485,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 410,
+    "borrowers_ID": 179,
+    "book_ID": 336,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 411,
+    "borrowers_ID": 304,
+    "book_ID": 608,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 412,
+    "borrowers_ID": 208,
+    "book_ID": 416,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 413,
+    "borrowers_ID": 398,
+    "book_ID": 46,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 414,
+    "borrowers_ID": 97,
+    "book_ID": 297,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 415,
+    "borrowers_ID": 52,
+    "book_ID": 368,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 416,
+    "borrowers_ID": 68,
+    "book_ID": 135,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 417,
+    "borrowers_ID": 263,
+    "book_ID": 526,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 418,
+    "borrowers_ID": 378,
+    "book_ID": 756,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 419,
+    "borrowers_ID": 188,
+    "book_ID": 375,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 420,
+    "borrowers_ID": 361,
+    "book_ID": 721,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 421,
+    "borrowers_ID": 229,
+    "book_ID": 457,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 422,
+    "borrowers_ID": 43,
+    "book_ID": 86,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 423,
+    "borrowers_ID": 293,
+    "book_ID": 586,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 424,
+    "borrowers_ID": 21,
+    "book_ID": 41,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 425,
+    "borrowers_ID": 389,
+    "book_ID": 778,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 426,
+    "borrowers_ID": 174,
+    "book_ID": 347,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 427,
+    "borrowers_ID": 350,
+    "book_ID": 144,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 428,
+    "borrowers_ID": 354,
+    "book_ID": 708,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 429,
+    "borrowers_ID": 233,
+    "book_ID": 465,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 430,
+    "borrowers_ID": 273,
+    "book_ID": 206,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 431,
+    "borrowers_ID": 419,
+    "book_ID": 259,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 432,
+    "borrowers_ID": 212,
+    "book_ID": 424,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 433,
+    "borrowers_ID": 453,
+    "book_ID": 80,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 434,
+    "borrowers_ID": 205,
+    "book_ID": 410,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 435,
+    "borrowers_ID": 408,
+    "book_ID": 816,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 436,
+    "borrowers_ID": 291,
+    "book_ID": 216,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 437,
+    "borrowers_ID": 376,
+    "book_ID": 752,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 438,
+    "borrowers_ID": 118,
+    "book_ID": 235,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 439,
+    "borrowers_ID": 462,
+    "book_ID": 924,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 440,
+    "borrowers_ID": 293,
+    "book_ID": 585,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 441,
+    "borrowers_ID": 496,
+    "book_ID": 210,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 442,
+    "borrowers_ID": 27,
+    "book_ID": 53,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 443,
+    "borrowers_ID": 275,
+    "book_ID": 550,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 444,
+    "borrowers_ID": 81,
+    "book_ID": 161,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 445,
+    "borrowers_ID": 483,
+    "book_ID": 966,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 446,
+    "borrowers_ID": 222,
+    "book_ID": 444,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 447,
+    "borrowers_ID": 216,
+    "book_ID": 431,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 448,
+    "borrowers_ID": 462,
+    "book_ID": 439,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 449,
+    "borrowers_ID": 28,
+    "book_ID": 56,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 450,
+    "borrowers_ID": 321,
+    "book_ID": 311,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 451,
+    "borrowers_ID": 154,
+    "book_ID": 308,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 452,
+    "borrowers_ID": 500,
+    "book_ID": 269,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 453,
+    "borrowers_ID": 433,
+    "book_ID": 866,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 454,
+    "borrowers_ID": 228,
+    "book_ID": 455,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 455,
+    "borrowers_ID": 334,
+    "book_ID": 667,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 456,
+    "borrowers_ID": 48,
+    "book_ID": 95,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 457,
+    "borrowers_ID": 497,
+    "book_ID": 993,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 458,
+    "borrowers_ID": 345,
+    "book_ID": 689,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 459,
+    "borrowers_ID": 26,
+    "book_ID": 52,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 460,
+    "borrowers_ID": 442,
+    "book_ID": 205,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 461,
+    "borrowers_ID": 351,
+    "book_ID": 701,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 462,
+    "borrowers_ID": 169,
+    "book_ID": 296,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 463,
+    "borrowers_ID": 408,
+    "book_ID": 435,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 464,
+    "borrowers_ID": 470,
+    "book_ID": 940,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 465,
+    "borrowers_ID": 260,
+    "book_ID": 519,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 466,
+    "borrowers_ID": 93,
+    "book_ID": 150,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 467,
+    "borrowers_ID": 256,
+    "book_ID": 511,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 468,
+    "borrowers_ID": 193,
+    "book_ID": 385,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 469,
+    "borrowers_ID": 189,
+    "book_ID": 375,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 470,
+    "borrowers_ID": 261,
+    "book_ID": 521,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 471,
+    "borrowers_ID": 192,
+    "book_ID": 384,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 472,
+    "borrowers_ID": 146,
+    "book_ID": 291,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 473,
+    "borrowers_ID": 417,
+    "book_ID": 396,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 474,
+    "borrowers_ID": 396,
+    "book_ID": 791,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 475,
+    "borrowers_ID": 365,
+    "book_ID": 729,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 476,
+    "borrowers_ID": 203,
+    "book_ID": 405,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 477,
+    "borrowers_ID": 268,
+    "book_ID": 536,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 478,
+    "borrowers_ID": 213,
+    "book_ID": 425,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 479,
+    "borrowers_ID": 38,
+    "book_ID": 75,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 480,
+    "borrowers_ID": 168,
+    "book_ID": 335,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 481,
+    "borrowers_ID": 459,
+    "book_ID": 917,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 482,
+    "borrowers_ID": 389,
+    "book_ID": 777,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 483,
+    "borrowers_ID": 327,
+    "book_ID": 73,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 484,
+    "borrowers_ID": 412,
+    "book_ID": 327,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 485,
+    "borrowers_ID": 119,
+    "book_ID": 237,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 486,
+    "borrowers_ID": 420,
+    "book_ID": 66,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 487,
+    "borrowers_ID": 279,
+    "book_ID": 278,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 488,
+    "borrowers_ID": 226,
+    "book_ID": 180,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 489,
+    "borrowers_ID": 372,
+    "book_ID": 140,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 490,
+    "borrowers_ID": 361,
+    "book_ID": 722,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 491,
+    "borrowers_ID": 295,
+    "book_ID": 362,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 492,
+    "borrowers_ID": 32,
+    "book_ID": 251,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 493,
+    "borrowers_ID": 92,
+    "book_ID": 183,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 494,
+    "borrowers_ID": 21,
+    "book_ID": 42,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 495,
+    "borrowers_ID": 442,
+    "book_ID": 884,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 496,
+    "borrowers_ID": 328,
+    "book_ID": 655,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 497,
+    "borrowers_ID": 119,
+    "book_ID": 485,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 498,
+    "borrowers_ID": 305,
+    "book_ID": 151,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 499,
+    "borrowers_ID": 321,
+    "book_ID": 642,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 500,
+    "borrowers_ID": 391,
+    "book_ID": 782,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 501,
+    "borrowers_ID": 467,
+    "book_ID": 142,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 502,
+    "borrowers_ID": 23,
+    "book_ID": 46,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 503,
+    "borrowers_ID": 274,
+    "book_ID": 29,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 504,
+    "borrowers_ID": 268,
+    "book_ID": 301,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 505,
+    "borrowers_ID": 129,
+    "book_ID": 258,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 506,
+    "borrowers_ID": 9,
+    "book_ID": 18,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 507,
+    "borrowers_ID": 84,
+    "book_ID": 167,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 508,
+    "borrowers_ID": 38,
+    "book_ID": 479,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 509,
+    "borrowers_ID": 364,
+    "book_ID": 1,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 510,
+    "borrowers_ID": 131,
+    "book_ID": 360,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 511,
+    "borrowers_ID": 280,
+    "book_ID": 6,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 512,
+    "borrowers_ID": 284,
+    "book_ID": 568,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 513,
+    "borrowers_ID": 308,
+    "book_ID": 615,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 514,
+    "borrowers_ID": 359,
+    "book_ID": 717,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 515,
+    "borrowers_ID": 484,
+    "book_ID": 967,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 516,
+    "borrowers_ID": 463,
+    "book_ID": 925,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 517,
+    "borrowers_ID": 343,
+    "book_ID": 147,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 518,
+    "borrowers_ID": 497,
+    "book_ID": 457,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 519,
+    "borrowers_ID": 352,
+    "book_ID": 704,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 520,
+    "borrowers_ID": 341,
+    "book_ID": 347,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 521,
+    "borrowers_ID": 314,
+    "book_ID": 627,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 522,
+    "borrowers_ID": 30,
+    "book_ID": 60,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 523,
+    "borrowers_ID": 321,
+    "book_ID": 499,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 524,
+    "borrowers_ID": 329,
+    "book_ID": 657,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 525,
+    "borrowers_ID": 467,
+    "book_ID": 933,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 526,
+    "borrowers_ID": 161,
+    "book_ID": 321,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 527,
+    "borrowers_ID": 55,
+    "book_ID": 109,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 528,
+    "borrowers_ID": 396,
+    "book_ID": 474,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 529,
+    "borrowers_ID": 454,
+    "book_ID": 7,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 530,
+    "borrowers_ID": 38,
+    "book_ID": 508,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 531,
+    "borrowers_ID": 85,
+    "book_ID": 169,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 532,
+    "borrowers_ID": 464,
+    "book_ID": 927,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 533,
+    "borrowers_ID": 392,
+    "book_ID": 784,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 534,
+    "borrowers_ID": 147,
+    "book_ID": 293,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 535,
+    "borrowers_ID": 201,
+    "book_ID": 141,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 536,
+    "borrowers_ID": 436,
+    "book_ID": 871,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 537,
+    "borrowers_ID": 116,
+    "book_ID": 177,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 538,
+    "borrowers_ID": 59,
+    "book_ID": 118,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 539,
+    "borrowers_ID": 284,
+    "book_ID": 567,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 540,
+    "borrowers_ID": 110,
+    "book_ID": 70,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 541,
+    "borrowers_ID": 337,
+    "book_ID": 279,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 542,
+    "borrowers_ID": 242,
+    "book_ID": 304,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 543,
+    "borrowers_ID": 363,
+    "book_ID": 726,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 544,
+    "borrowers_ID": 241,
+    "book_ID": 382,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 545,
+    "borrowers_ID": 82,
+    "book_ID": 288,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 546,
+    "borrowers_ID": 11,
+    "book_ID": 21,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 547,
+    "borrowers_ID": 224,
+    "book_ID": 261,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 548,
+    "borrowers_ID": 234,
+    "book_ID": 349,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 549,
+    "borrowers_ID": 38,
+    "book_ID": 530,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 550,
+    "borrowers_ID": 480,
+    "book_ID": 960,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 551,
+    "borrowers_ID": 485,
+    "book_ID": 969,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 552,
+    "borrowers_ID": 122,
+    "book_ID": 244,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 553,
+    "borrowers_ID": 454,
+    "book_ID": 529,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 554,
+    "borrowers_ID": 481,
+    "book_ID": 246,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 555,
+    "borrowers_ID": 78,
+    "book_ID": 164,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 556,
+    "borrowers_ID": 437,
+    "book_ID": 274,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 557,
+    "borrowers_ID": 202,
+    "book_ID": 404,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 558,
+    "borrowers_ID": 445,
+    "book_ID": 890,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 559,
+    "borrowers_ID": 301,
+    "book_ID": 602,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 560,
+    "borrowers_ID": 469,
+    "book_ID": 937,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 561,
+    "borrowers_ID": 455,
+    "book_ID": 352,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 562,
+    "borrowers_ID": 188,
+    "book_ID": 376,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 563,
+    "borrowers_ID": 85,
+    "book_ID": 531,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 564,
+    "borrowers_ID": 326,
+    "book_ID": 231,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 565,
+    "borrowers_ID": 47,
+    "book_ID": 110,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 566,
+    "borrowers_ID": 317,
+    "book_ID": 13,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 567,
+    "borrowers_ID": 393,
+    "book_ID": 220,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 568,
+    "borrowers_ID": 162,
+    "book_ID": 323,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 569,
+    "borrowers_ID": 158,
+    "book_ID": 291,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 570,
+    "borrowers_ID": 48,
+    "book_ID": 96,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 571,
+    "borrowers_ID": 347,
+    "book_ID": 102,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 572,
+    "borrowers_ID": 284,
+    "book_ID": 512,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 573,
+    "borrowers_ID": 214,
+    "book_ID": 267,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 574,
+    "borrowers_ID": 242,
+    "book_ID": 174,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 575,
+    "borrowers_ID": 5,
+    "book_ID": 9,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 576,
+    "borrowers_ID": 72,
+    "book_ID": 144,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 577,
+    "borrowers_ID": 168,
+    "book_ID": 480,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 578,
+    "borrowers_ID": 81,
+    "book_ID": 162,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 579,
+    "borrowers_ID": 247,
+    "book_ID": 494,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 580,
+    "borrowers_ID": 456,
+    "book_ID": 912,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 581,
+    "borrowers_ID": 437,
+    "book_ID": 873,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 582,
+    "borrowers_ID": 321,
+    "book_ID": 523,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 583,
+    "borrowers_ID": 358,
+    "book_ID": 42,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 584,
+    "borrowers_ID": 474,
+    "book_ID": 948,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 585,
+    "borrowers_ID": 53,
+    "book_ID": 106,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 586,
+    "borrowers_ID": 463,
+    "book_ID": 516,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 587,
+    "borrowers_ID": 11,
+    "book_ID": 546,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 588,
+    "borrowers_ID": 412,
+    "book_ID": 823,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 589,
+    "borrowers_ID": 69,
+    "book_ID": 276,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 590,
+    "borrowers_ID": 264,
+    "book_ID": 528,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 591,
+    "borrowers_ID": 234,
+    "book_ID": 12,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 592,
+    "borrowers_ID": 171,
+    "book_ID": 265,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 593,
+    "borrowers_ID": 259,
+    "book_ID": 160,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 594,
+    "borrowers_ID": 315,
+    "book_ID": 630,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 595,
+    "borrowers_ID": 156,
+    "book_ID": 218,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 596,
+    "borrowers_ID": 149,
+    "book_ID": 297,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 597,
+    "borrowers_ID": 158,
+    "book_ID": 569,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 598,
+    "borrowers_ID": 37,
+    "book_ID": 74,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 599,
+    "borrowers_ID": 194,
+    "book_ID": 129,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 600,
+    "borrowers_ID": 266,
+    "book_ID": 328,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 601,
+    "borrowers_ID": 119,
+    "book_ID": 497,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 602,
+    "borrowers_ID": 63,
+    "book_ID": 79,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 603,
+    "borrowers_ID": 76,
+    "book_ID": 152,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 604,
+    "borrowers_ID": 490,
+    "book_ID": 980,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 605,
+    "borrowers_ID": 133,
+    "book_ID": 266,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 606,
+    "borrowers_ID": 201,
+    "book_ID": 535,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 607,
+    "borrowers_ID": 409,
+    "book_ID": 2,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 608,
+    "borrowers_ID": 212,
+    "book_ID": 423,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 609,
+    "borrowers_ID": 477,
+    "book_ID": 114,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 610,
+    "borrowers_ID": 6,
+    "book_ID": 12,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 611,
+    "borrowers_ID": 270,
+    "book_ID": 275,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 612,
+    "borrowers_ID": 122,
+    "book_ID": 219,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 613,
+    "borrowers_ID": 199,
+    "book_ID": 397,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 614,
+    "borrowers_ID": 346,
+    "book_ID": 691,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 615,
+    "borrowers_ID": 32,
+    "book_ID": 383,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 616,
+    "borrowers_ID": 134,
+    "book_ID": 268,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 617,
+    "borrowers_ID": 330,
+    "book_ID": 660,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 618,
+    "borrowers_ID": 111,
+    "book_ID": 105,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 619,
+    "borrowers_ID": 274,
+    "book_ID": 503,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 620,
+    "borrowers_ID": 85,
+    "book_ID": 563,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 621,
+    "borrowers_ID": 307,
+    "book_ID": 222,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 622,
+    "borrowers_ID": 481,
+    "book_ID": 554,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 623,
+    "borrowers_ID": 93,
+    "book_ID": 466,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 624,
+    "borrowers_ID": 394,
+    "book_ID": 788,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 625,
+    "borrowers_ID": 314,
+    "book_ID": 628,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 626,
+    "borrowers_ID": 177,
+    "book_ID": 354,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 627,
+    "borrowers_ID": 26,
+    "book_ID": 459,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 628,
+    "borrowers_ID": 399,
+    "book_ID": 797,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 629,
+    "borrowers_ID": 87,
+    "book_ID": 149,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 630,
+    "borrowers_ID": 356,
+    "book_ID": 712,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 631,
+    "borrowers_ID": 415,
+    "book_ID": 829,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 632,
+    "borrowers_ID": 131,
+    "book_ID": 261,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 633,
+    "borrowers_ID": 387,
+    "book_ID": 303,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 634,
+    "borrowers_ID": 482,
+    "book_ID": 964,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 635,
+    "borrowers_ID": 338,
+    "book_ID": 675,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 636,
+    "borrowers_ID": 374,
+    "book_ID": 748,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 637,
+    "borrowers_ID": 246,
+    "book_ID": 115,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 638,
+    "borrowers_ID": 369,
+    "book_ID": 737,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 639,
+    "borrowers_ID": 341,
+    "book_ID": 682,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 640,
+    "borrowers_ID": 352,
+    "book_ID": 519,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 641,
+    "borrowers_ID": 54,
+    "book_ID": 108,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 642,
+    "borrowers_ID": 299,
+    "book_ID": 598,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 643,
+    "borrowers_ID": 435,
+    "book_ID": 870,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 644,
+    "borrowers_ID": 63,
+    "book_ID": 602,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 645,
+    "borrowers_ID": 495,
+    "book_ID": 128,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 646,
+    "borrowers_ID": 113,
+    "book_ID": 392,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 647,
+    "borrowers_ID": 472,
+    "book_ID": 944,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 648,
+    "borrowers_ID": 413,
+    "book_ID": 57,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 649,
+    "borrowers_ID": 284,
+    "book_ID": 539,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 650,
+    "borrowers_ID": 22,
+    "book_ID": 44,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 651,
+    "borrowers_ID": 319,
+    "book_ID": 637,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 652,
+    "borrowers_ID": 47,
+    "book_ID": 565,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 653,
+    "borrowers_ID": 264,
+    "book_ID": 590,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 654,
+    "borrowers_ID": 110,
+    "book_ID": 540,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 655,
+    "borrowers_ID": 460,
+    "book_ID": 919,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 656,
+    "borrowers_ID": 138,
+    "book_ID": 276,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 657,
+    "borrowers_ID": 471,
+    "book_ID": 942,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 658,
+    "borrowers_ID": 182,
+    "book_ID": 364,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 659,
+    "borrowers_ID": 176,
+    "book_ID": 352,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 660,
+    "borrowers_ID": 456,
+    "book_ID": 580,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 661,
+    "borrowers_ID": 176,
+    "book_ID": 351,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 662,
+    "borrowers_ID": 11,
+    "book_ID": 22,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 663,
+    "borrowers_ID": 126,
+    "book_ID": 152,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 664,
+    "borrowers_ID": 121,
+    "book_ID": 258,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 665,
+    "borrowers_ID": 92,
+    "book_ID": 493,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 666,
+    "borrowers_ID": 140,
+    "book_ID": 280,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 667,
+    "borrowers_ID": 235,
+    "book_ID": 86,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 668,
+    "borrowers_ID": 217,
+    "book_ID": 434,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 669,
+    "borrowers_ID": 9,
+    "book_ID": 190,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 670,
+    "borrowers_ID": 159,
+    "book_ID": 317,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 671,
+    "borrowers_ID": 389,
+    "book_ID": 482,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 672,
+    "borrowers_ID": 462,
+    "book_ID": 448,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 673,
+    "borrowers_ID": 270,
+    "book_ID": 611,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 674,
+    "borrowers_ID": 422,
+    "book_ID": 157,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 675,
+    "borrowers_ID": 31,
+    "book_ID": 62,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 676,
+    "borrowers_ID": 8,
+    "book_ID": 312,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 677,
+    "borrowers_ID": 47,
+    "book_ID": 93,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 678,
+    "borrowers_ID": 30,
+    "book_ID": 522,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 679,
+    "borrowers_ID": 400,
+    "book_ID": 350,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 680,
+    "borrowers_ID": 202,
+    "book_ID": 403,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 681,
+    "borrowers_ID": 205,
+    "book_ID": 434,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 682,
+    "borrowers_ID": 113,
+    "book_ID": 119,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 683,
+    "borrowers_ID": 115,
+    "book_ID": 230,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 684,
+    "borrowers_ID": 65,
+    "book_ID": 130,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 685,
+    "borrowers_ID": 38,
+    "book_ID": 76,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 686,
+    "borrowers_ID": 368,
+    "book_ID": 58,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 687,
+    "borrowers_ID": 367,
+    "book_ID": 734,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 688,
+    "borrowers_ID": 278,
+    "book_ID": 555,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 689,
+    "borrowers_ID": 23,
+    "book_ID": 502,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 690,
+    "borrowers_ID": 200,
+    "book_ID": 400,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 691,
+    "borrowers_ID": 403,
+    "book_ID": 806,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 692,
+    "borrowers_ID": 64,
+    "book_ID": 127,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 693,
+    "borrowers_ID": 193,
+    "book_ID": 468,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 694,
+    "borrowers_ID": 385,
+    "book_ID": 770,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 695,
+    "borrowers_ID": 177,
+    "book_ID": 626,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 696,
+    "borrowers_ID": 43,
+    "book_ID": 422,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 697,
+    "borrowers_ID": 174,
+    "book_ID": 426,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 698,
+    "borrowers_ID": 315,
+    "book_ID": 629,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 699,
+    "borrowers_ID": 472,
+    "book_ID": 943,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 700,
+    "borrowers_ID": 355,
+    "book_ID": 710,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 701,
+    "borrowers_ID": 378,
+    "book_ID": 418,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 702,
+    "borrowers_ID": 256,
+    "book_ID": 467,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 703,
+    "borrowers_ID": 405,
+    "book_ID": 88,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 704,
+    "borrowers_ID": 125,
+    "book_ID": 292,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 705,
+    "borrowers_ID": 134,
+    "book_ID": 616,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 706,
+    "borrowers_ID": 357,
+    "book_ID": 713,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 707,
+    "borrowers_ID": 277,
+    "book_ID": 290,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 708,
+    "borrowers_ID": 343,
+    "book_ID": 685,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 709,
+    "borrowers_ID": 79,
+    "book_ID": 394,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 710,
+    "borrowers_ID": 452,
+    "book_ID": 904,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 711,
+    "borrowers_ID": 92,
+    "book_ID": 665,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 712,
+    "borrowers_ID": 441,
+    "book_ID": 882,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 713,
+    "borrowers_ID": 283,
+    "book_ID": 565,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 714,
+    "borrowers_ID": 475,
+    "book_ID": 949,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 715,
+    "borrowers_ID": 252,
+    "book_ID": 503,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 716,
+    "borrowers_ID": 63,
+    "book_ID": 125,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 717,
+    "borrowers_ID": 396,
+    "book_ID": 792,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 718,
+    "borrowers_ID": 61,
+    "book_ID": 213,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 719,
+    "borrowers_ID": 83,
+    "book_ID": 166,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 720,
+    "borrowers_ID": 224,
+    "book_ID": 547,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 721,
+    "borrowers_ID": 273,
+    "book_ID": 546,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 722,
+    "borrowers_ID": 458,
+    "book_ID": 915,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 723,
+    "borrowers_ID": 194,
+    "book_ID": 599,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 724,
+    "borrowers_ID": 309,
+    "book_ID": 617,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 725,
+    "borrowers_ID": 256,
+    "book_ID": 702,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 726,
+    "borrowers_ID": 325,
+    "book_ID": 650,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 727,
+    "borrowers_ID": 270,
+    "book_ID": 673,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 728,
+    "borrowers_ID": 385,
+    "book_ID": 694,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 729,
+    "borrowers_ID": 245,
+    "book_ID": 489,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 730,
+    "borrowers_ID": 488,
+    "book_ID": 976,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 731,
+    "borrowers_ID": 335,
+    "book_ID": 669,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 732,
+    "borrowers_ID": 233,
+    "book_ID": 429,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 733,
+    "borrowers_ID": 59,
+    "book_ID": 393,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 734,
+    "borrowers_ID": 45,
+    "book_ID": 271,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 735,
+    "borrowers_ID": 324,
+    "book_ID": 268,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 736,
+    "borrowers_ID": 450,
+    "book_ID": 899,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 737,
+    "borrowers_ID": 209,
+    "book_ID": 417,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 738,
+    "borrowers_ID": 490,
+    "book_ID": 604,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 739,
+    "borrowers_ID": 431,
+    "book_ID": 862,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 740,
+    "borrowers_ID": 182,
+    "book_ID": 658,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 741,
+    "borrowers_ID": 91,
+    "book_ID": 182,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 742,
+    "borrowers_ID": 25,
+    "book_ID": 49,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 743,
+    "borrowers_ID": 199,
+    "book_ID": 613,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 744,
+    "borrowers_ID": 72,
+    "book_ID": 143,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 745,
+    "borrowers_ID": 109,
+    "book_ID": 351,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 746,
+    "borrowers_ID": 463,
+    "book_ID": 586,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 747,
+    "borrowers_ID": 281,
+    "book_ID": 562,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 748,
+    "borrowers_ID": 218,
+    "book_ID": 436,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 749,
+    "borrowers_ID": 134,
+    "book_ID": 705,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 750,
+    "borrowers_ID": 115,
+    "book_ID": 683,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 751,
+    "borrowers_ID": 147,
+    "book_ID": 294,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 752,
+    "borrowers_ID": 113,
+    "book_ID": 682,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 753,
+    "borrowers_ID": 232,
+    "book_ID": 463,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 754,
+    "borrowers_ID": 248,
+    "book_ID": 496,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 755,
+    "borrowers_ID": 82,
+    "book_ID": 164,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 756,
+    "borrowers_ID": 421,
+    "book_ID": 842,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 757,
+    "borrowers_ID": 62,
+    "book_ID": 316,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 758,
+    "borrowers_ID": 97,
+    "book_ID": 414,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 759,
+    "borrowers_ID": 370,
+    "book_ID": 740,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 760,
+    "borrowers_ID": 310,
+    "book_ID": 120,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 761,
+    "borrowers_ID": 87,
+    "book_ID": 174,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 762,
+    "borrowers_ID": 392,
+    "book_ID": 533,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 763,
+    "borrowers_ID": 99,
+    "book_ID": 197,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 764,
+    "borrowers_ID": 92,
+    "book_ID": 711,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 765,
+    "borrowers_ID": 118,
+    "book_ID": 438,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 766,
+    "borrowers_ID": 360,
+    "book_ID": 78,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 767,
+    "borrowers_ID": 383,
+    "book_ID": 766,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 768,
+    "borrowers_ID": 238,
+    "book_ID": 234,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 769,
+    "borrowers_ID": 151,
+    "book_ID": 171,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 770,
+    "borrowers_ID": 302,
+    "book_ID": 604,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 771,
+    "borrowers_ID": 355,
+    "book_ID": 709,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 772,
+    "borrowers_ID": 407,
+    "book_ID": 813,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 773,
+    "borrowers_ID": 130,
+    "book_ID": 260,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 774,
+    "borrowers_ID": 402,
+    "book_ID": 803,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 775,
+    "borrowers_ID": 134,
+    "book_ID": 267,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 776,
+    "borrowers_ID": 249,
+    "book_ID": 357,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 777,
+    "borrowers_ID": 260,
+    "book_ID": 465,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 778,
+    "borrowers_ID": 123,
+    "book_ID": 246,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 779,
+    "borrowers_ID": 201,
+    "book_ID": 406,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 780,
+    "borrowers_ID": 294,
+    "book_ID": 587,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 781,
+    "borrowers_ID": 44,
+    "book_ID": 88,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 782,
+    "borrowers_ID": 52,
+    "book_ID": 104,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 783,
+    "borrowers_ID": 252,
+    "book_ID": 715,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 784,
+    "borrowers_ID": 130,
+    "book_ID": 259,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 785,
+    "borrowers_ID": 341,
+    "book_ID": 639,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 786,
+    "borrowers_ID": 222,
+    "book_ID": 8,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 787,
+    "borrowers_ID": 1,
+    "book_ID": 277,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 788,
+    "borrowers_ID": 311,
+    "book_ID": 622,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 789,
+    "borrowers_ID": 464,
+    "book_ID": 532,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 790,
+    "borrowers_ID": 403,
+    "book_ID": 691,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 791,
+    "borrowers_ID": 389,
+    "book_ID": 671,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 792,
+    "borrowers_ID": 112,
+    "book_ID": 224,
+    "detail_numberofcopies": 1
+  },
+  {
+    "details_ID": 793,
+    "borrowers_ID": 121,
+    "book_ID": 398,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 794,
+    "borrowers_ID": 122,
+    "book_ID": 552,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 795,
+    "borrowers_ID": 95,
+    "book_ID": 81,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 796,
+    "borrowers_ID": 199,
+    "book_ID": 398,
+    "detail_numberofcopies": 5
+  },
+  {
+    "details_ID": 797,
+    "borrowers_ID": 427,
+    "book_ID": 853,
+    "detail_numberofcopies": 2
+  },
+  {
+    "details_ID": 798,
+    "borrowers_ID": 108,
+    "book_ID": 215,
+    "detail_numberofcopies": 3
+  },
+  {
+    "details_ID": 799,
+    "borrowers_ID": 454,
+    "book_ID": 262,
+    "detail_numberofcopies": 4
+  },
+  {
+    "details_ID": 800,
+    "borrowers_ID": 249,
+    "book_ID": 498,
+    "detail_numberofcopies": 5
+  }
+]

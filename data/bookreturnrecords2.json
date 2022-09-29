@@ -1,0 +1,1352 @@
+[
+  {
+    "return_ID": 1,
+    "borrowers_ID": 364,
+    "return_datereturned": "2022-07-29 22:45:21.000"
+  },
+  {
+    "return_ID": 2,
+    "borrowers_ID": 409,
+    "return_datereturned": "2021-11-12 03:58:00.000"
+  },
+  {
+    "return_ID": 3,
+    "borrowers_ID": 385,
+    "return_datereturned": "2022-10-15 00:32:24.000"
+  },
+  {
+    "return_ID": 4,
+    "borrowers_ID": 280,
+    "return_datereturned": "2022-09-18 05:49:15.000"
+  },
+  {
+    "return_ID": 5,
+    "borrowers_ID": 104,
+    "return_datereturned": "2022-07-14 01:04:03.000"
+  },
+  {
+    "return_ID": 6,
+    "borrowers_ID": 280,
+    "return_datereturned": "2022-09-18 05:49:15.000"
+  },
+  {
+    "return_ID": 7,
+    "borrowers_ID": 454,
+    "return_datereturned": "2021-10-01 11:38:04.000"
+  },
+  {
+    "return_ID": 8,
+    "borrowers_ID": 222,
+    "return_datereturned": "2020-12-28 14:26:31.000"
+  },
+  {
+    "return_ID": 9,
+    "borrowers_ID": 489,
+    "return_datereturned": "2020-11-02 09:40:24.000"
+  },
+  {
+    "return_ID": 10,
+    "borrowers_ID": 137,
+    "return_datereturned": "2022-07-19 16:44:34.000"
+  },
+  {
+    "return_ID": 11,
+    "borrowers_ID": 146,
+    "return_datereturned": "2020-07-13 06:48:23.000"
+  },
+  {
+    "return_ID": 12,
+    "borrowers_ID": 234,
+    "return_datereturned": "2021-06-09 23:12:56.000"
+  },
+  {
+    "return_ID": 13,
+    "borrowers_ID": 317,
+    "return_datereturned": "2022-11-14 09:39:59.000"
+  },
+  {
+    "return_ID": 14,
+    "borrowers_ID": 235,
+    "return_datereturned": "2020-10-02 07:16:07.000"
+  },
+  {
+    "return_ID": 15,
+    "borrowers_ID": 492,
+    "return_datereturned": "2020-06-16 20:20:33.000"
+  },
+  {
+    "return_ID": 16,
+    "borrowers_ID": 16,
+    "return_datereturned": "2022-11-10 23:10:09.000"
+  },
+  {
+    "return_ID": 17,
+    "borrowers_ID": 432,
+    "return_datereturned": "2021-02-19 17:01:53.000"
+  },
+  {
+    "return_ID": 18,
+    "borrowers_ID": 498,
+    "return_datereturned": "2021-07-09 03:46:42.000"
+  },
+  {
+    "return_ID": 19,
+    "borrowers_ID": 339,
+    "return_datereturned": "2020-10-19 22:45:02.000"
+  },
+  {
+    "return_ID": 20,
+    "borrowers_ID": 158,
+    "return_datereturned": "2022-06-01 12:55:41.000"
+  },
+  {
+    "return_ID": 21,
+    "borrowers_ID": 409,
+    "return_datereturned": "2021-11-12 03:58:00.000"
+  },
+  {
+    "return_ID": 22,
+    "borrowers_ID": 425,
+    "return_datereturned": "2021-08-28 09:23:47.000"
+  },
+  {
+    "return_ID": 23,
+    "borrowers_ID": 496,
+    "return_datereturned": "2021-03-04 04:36:17.000"
+  },
+  {
+    "return_ID": 24,
+    "borrowers_ID": 17,
+    "return_datereturned": "2022-10-12 01:08:27.000"
+  },
+  {
+    "return_ID": 25,
+    "borrowers_ID": 350,
+    "return_datereturned": "2022-06-19 22:47:12.000"
+  },
+  {
+    "return_ID": 26,
+    "borrowers_ID": 264,
+    "return_datereturned": "2020-01-26 02:39:21.000"
+  },
+  {
+    "return_ID": 27,
+    "borrowers_ID": 468,
+    "return_datereturned": "2020-06-18 02:00:46.000"
+  },
+  {
+    "return_ID": 28,
+    "borrowers_ID": 344,
+    "return_datereturned": "2020-02-19 00:55:13.000"
+  },
+  {
+    "return_ID": 29,
+    "borrowers_ID": 274,
+    "return_datereturned": "2022-06-19 16:35:57.000"
+  },
+  {
+    "return_ID": 30,
+    "borrowers_ID": 41,
+    "return_datereturned": "2020-11-28 10:29:25.000"
+  },
+  {
+    "return_ID": 31,
+    "borrowers_ID": 94,
+    "return_datereturned": "2022-11-21 00:27:04.000"
+  },
+  {
+    "return_ID": 32,
+    "borrowers_ID": 227,
+    "return_datereturned": "2022-05-08 11:57:43.000"
+  },
+  {
+    "return_ID": 33,
+    "borrowers_ID": 149,
+    "return_datereturned": "2021-07-24 18:47:45.000"
+  },
+  {
+    "return_ID": 34,
+    "borrowers_ID": 495,
+    "return_datereturned": "2022-06-09 14:53:12.000"
+  },
+  {
+    "return_ID": 35,
+    "borrowers_ID": 322,
+    "return_datereturned": "2022-09-12 11:05:12.000"
+  },
+  {
+    "return_ID": 36,
+    "borrowers_ID": 382,
+    "return_datereturned": "2021-11-15 13:28:09.000"
+  },
+  {
+    "return_ID": 37,
+    "borrowers_ID": 16,
+    "return_datereturned": "2022-09-30 21:02:31.000"
+  },
+  {
+    "return_ID": 38,
+    "borrowers_ID": 191,
+    "return_datereturned": "2021-12-02 17:02:38.000"
+  },
+  {
+    "return_ID": 39,
+    "borrowers_ID": 172,
+    "return_datereturned": "2020-02-22 02:56:21.000"
+  },
+  {
+    "return_ID": 40,
+    "borrowers_ID": 479,
+    "return_datereturned": "2020-12-25 04:41:48.000"
+  },
+  {
+    "return_ID": 41,
+    "borrowers_ID": 253,
+    "return_datereturned": "2021-08-09 14:28:11.000"
+  },
+  {
+    "return_ID": 42,
+    "borrowers_ID": 358,
+    "return_datereturned": "2022-06-16 03:02:14.000"
+  },
+  {
+    "return_ID": 43,
+    "borrowers_ID": 60,
+    "return_datereturned": "2022-10-10 08:05:06.000"
+  },
+  {
+    "return_ID": 44,
+    "borrowers_ID": 137,
+    "return_datereturned": "2022-07-19 16:44:34.000"
+  },
+  {
+    "return_ID": 45,
+    "borrowers_ID": 454,
+    "return_datereturned": "2022-07-21 01:49:26.000"
+  },
+  {
+    "return_ID": 46,
+    "borrowers_ID": 398,
+    "return_datereturned": "2022-08-08 19:44:25.000"
+  },
+  {
+    "return_ID": 47,
+    "borrowers_ID": 169,
+    "return_datereturned": "2022-05-24 08:54:02.000"
+  },
+  {
+    "return_ID": 48,
+    "borrowers_ID": 229,
+    "return_datereturned": "2021-03-26 19:50:17.000"
+  },
+  {
+    "return_ID": 49,
+    "borrowers_ID": 74,
+    "return_datereturned": "2020-10-21 18:43:46.000"
+  },
+  {
+    "return_ID": 50,
+    "borrowers_ID": 111,
+    "return_datereturned": "2021-08-16 20:05:13.000"
+  },
+  {
+    "return_ID": 51,
+    "borrowers_ID": 206,
+    "return_datereturned": "2022-12-13 15:51:10.000"
+  },
+  {
+    "return_ID": 52,
+    "borrowers_ID": 360,
+    "return_datereturned": "2022-10-27 15:18:01.000"
+  },
+  {
+    "return_ID": 53,
+    "borrowers_ID": 310,
+    "return_datereturned": "2022-11-07 17:16:02.000"
+  },
+  {
+    "return_ID": 54,
+    "borrowers_ID": 244,
+    "return_datereturned": "2021-07-14 09:34:21.000"
+  },
+  {
+    "return_ID": 55,
+    "borrowers_ID": 98,
+    "return_datereturned": "2021-07-22 02:48:30.000"
+  },
+  {
+    "return_ID": 56,
+    "borrowers_ID": 440,
+    "return_datereturned": "2021-04-28 18:42:47.000"
+  },
+  {
+    "return_ID": 57,
+    "borrowers_ID": 413,
+    "return_datereturned": "2021-06-02 19:02:56.000"
+  },
+  {
+    "return_ID": 58,
+    "borrowers_ID": 368,
+    "return_datereturned": "2021-05-27 16:23:19.000"
+  },
+  {
+    "return_ID": 59,
+    "borrowers_ID": 430,
+    "return_datereturned": "2022-09-01 04:40:25.000"
+  },
+  {
+    "return_ID": 60,
+    "borrowers_ID": 340,
+    "return_datereturned": "2020-11-28 14:05:02.000"
+  },
+  {
+    "return_ID": 61,
+    "borrowers_ID": 313,
+    "return_datereturned": "2021-07-23 16:05:43.000"
+  },
+  {
+    "return_ID": 62,
+    "borrowers_ID": 110,
+    "return_datereturned": "2020-08-14 11:00:56.000"
+  },
+  {
+    "return_ID": 63,
+    "borrowers_ID": 448,
+    "return_datereturned": "2021-09-02 10:53:28.000"
+  },
+  {
+    "return_ID": 64,
+    "borrowers_ID": 449,
+    "return_datereturned": "2021-08-04 06:19:37.000"
+  },
+  {
+    "return_ID": 65,
+    "borrowers_ID": 44,
+    "return_datereturned": "2020-06-08 07:06:21.000"
+  },
+  {
+    "return_ID": 66,
+    "borrowers_ID": 420,
+    "return_datereturned": "2021-02-16 03:12:03.000"
+  },
+  {
+    "return_ID": 67,
+    "borrowers_ID": 86,
+    "return_datereturned": "2020-12-15 22:40:50.000"
+  },
+  {
+    "return_ID": 68,
+    "borrowers_ID": 323,
+    "return_datereturned": "2021-07-16 04:07:28.000"
+  },
+  {
+    "return_ID": 69,
+    "borrowers_ID": 414,
+    "return_datereturned": "2021-06-08 02:16:03.000"
+  },
+  {
+    "return_ID": 70,
+    "borrowers_ID": 110,
+    "return_datereturned": "2023-01-12 20:10:06.000"
+  },
+  {
+    "return_ID": 71,
+    "borrowers_ID": 500,
+    "return_datereturned": "2022-11-29 00:38:03.000"
+  },
+  {
+    "return_ID": 72,
+    "borrowers_ID": 241,
+    "return_datereturned": "2021-05-11 11:53:57.000"
+  },
+  {
+    "return_ID": 73,
+    "borrowers_ID": 327,
+    "return_datereturned": "2020-03-14 10:14:13.000"
+  },
+  {
+    "return_ID": 74,
+    "borrowers_ID": 360,
+    "return_datereturned": "2022-10-27 15:18:01.000"
+  },
+  {
+    "return_ID": 75,
+    "borrowers_ID": 405,
+    "return_datereturned": "2021-04-11 01:36:09.000"
+  },
+  {
+    "return_ID": 76,
+    "borrowers_ID": 51,
+    "return_datereturned": "2021-12-04 01:55:47.000"
+  },
+  {
+    "return_ID": 77,
+    "borrowers_ID": 365,
+    "return_datereturned": "2020-04-30 10:05:05.000"
+  },
+  {
+    "return_ID": 78,
+    "borrowers_ID": 360,
+    "return_datereturned": "2022-10-27 15:18:01.000"
+  },
+  {
+    "return_ID": 79,
+    "borrowers_ID": 63,
+    "return_datereturned": "2020-05-06 09:52:39.000"
+  },
+  {
+    "return_ID": 80,
+    "borrowers_ID": 453,
+    "return_datereturned": "2021-06-07 21:41:43.000"
+  },
+  {
+    "return_ID": 81,
+    "borrowers_ID": 95,
+    "return_datereturned": "2022-07-08 10:32:32.000"
+  },
+  {
+    "return_ID": 82,
+    "borrowers_ID": 239,
+    "return_datereturned": "2020-11-25 10:52:49.000"
+  },
+  {
+    "return_ID": 83,
+    "borrowers_ID": 271,
+    "return_datereturned": "2022-12-20 08:59:14.000"
+  },
+  {
+    "return_ID": 84,
+    "borrowers_ID": 163,
+    "return_datereturned": "2022-10-10 17:13:34.000"
+  },
+  {
+    "return_ID": 85,
+    "borrowers_ID": 336,
+    "return_datereturned": "2020-03-11 13:56:01.000"
+  },
+  {
+    "return_ID": 86,
+    "borrowers_ID": 235,
+    "return_datereturned": "2022-06-23 13:46:06.000"
+  },
+  {
+    "return_ID": 87,
+    "borrowers_ID": 417,
+    "return_datereturned": "2021-03-07 22:34:22.000"
+  },
+  {
+    "return_ID": 88,
+    "borrowers_ID": 405,
+    "return_datereturned": "2020-08-25 19:15:04.000"
+  },
+  {
+    "return_ID": 89,
+    "borrowers_ID": 397,
+    "return_datereturned": "2021-02-11 22:02:24.000"
+  },
+  {
+    "return_ID": 90,
+    "borrowers_ID": 383,
+    "return_datereturned": "2020-01-24 15:06:55.000"
+  },
+  {
+    "return_ID": 91,
+    "borrowers_ID": 469,
+    "return_datereturned": "2022-04-05 14:42:39.000"
+  },
+  {
+    "return_ID": 92,
+    "borrowers_ID": 148,
+    "return_datereturned": "2022-01-08 05:54:47.000"
+  },
+  {
+    "return_ID": 93,
+    "borrowers_ID": 262,
+    "return_datereturned": "2022-04-19 07:29:28.000"
+  },
+  {
+    "return_ID": 94,
+    "borrowers_ID": 332,
+    "return_datereturned": "2020-02-23 22:19:13.000"
+  },
+  {
+    "return_ID": 95,
+    "borrowers_ID": 167,
+    "return_datereturned": "2021-03-12 02:01:57.000"
+  },
+  {
+    "return_ID": 96,
+    "borrowers_ID": 144,
+    "return_datereturned": "2022-06-28 11:25:33.000"
+  },
+  {
+    "return_ID": 97,
+    "borrowers_ID": 411,
+    "return_datereturned": "2022-12-26 09:21:04.000"
+  },
+  {
+    "return_ID": 98,
+    "borrowers_ID": 112,
+    "return_datereturned": "2020-08-05 17:23:47.000"
+  },
+  {
+    "return_ID": 99,
+    "borrowers_ID": 94,
+    "return_datereturned": "2022-03-11 07:20:41.000"
+  },
+  {
+    "return_ID": 100,
+    "borrowers_ID": 35,
+    "return_datereturned": "2022-10-24 20:00:28.000"
+  },
+  {
+    "return_ID": 101,
+    "borrowers_ID": 313,
+    "return_datereturned": "2022-03-07 11:10:58.000"
+  },
+  {
+    "return_ID": 102,
+    "borrowers_ID": 347,
+    "return_datereturned": "2020-12-25 02:08:31.000"
+  },
+  {
+    "return_ID": 103,
+    "borrowers_ID": 316,
+    "return_datereturned": "2022-07-17 20:40:02.000"
+  },
+  {
+    "return_ID": 104,
+    "borrowers_ID": 464,
+    "return_datereturned": "2021-05-13 06:48:57.000"
+  },
+  {
+    "return_ID": 105,
+    "borrowers_ID": 111,
+    "return_datereturned": "2021-08-16 20:05:13.000"
+  },
+  {
+    "return_ID": 106,
+    "borrowers_ID": 465,
+    "return_datereturned": "2020-11-26 16:10:17.000"
+  },
+  {
+    "return_ID": 107,
+    "borrowers_ID": 34,
+    "return_datereturned": "2020-03-18 00:26:44.000"
+  },
+  {
+    "return_ID": 108,
+    "borrowers_ID": 451,
+    "return_datereturned": "2021-01-12 20:27:46.000"
+  },
+  {
+    "return_ID": 109,
+    "borrowers_ID": 340,
+    "return_datereturned": "2020-11-28 14:05:02.000"
+  },
+  {
+    "return_ID": 110,
+    "borrowers_ID": 47,
+    "return_datereturned": "2020-10-02 14:36:34.000"
+  },
+  {
+    "return_ID": 111,
+    "borrowers_ID": 75,
+    "return_datereturned": "2020-07-26 08:54:24.000"
+  },
+  {
+    "return_ID": 112,
+    "borrowers_ID": 54,
+    "return_datereturned": "2021-05-21 09:23:12.000"
+  },
+  {
+    "return_ID": 113,
+    "borrowers_ID": 305,
+    "return_datereturned": "2022-07-28 10:03:41.000"
+  },
+  {
+    "return_ID": 114,
+    "borrowers_ID": 477,
+    "return_datereturned": "2020-08-09 23:02:01.000"
+  },
+  {
+    "return_ID": 115,
+    "borrowers_ID": 246,
+    "return_datereturned": "2022-11-28 17:56:40.000"
+  },
+  {
+    "return_ID": 116,
+    "borrowers_ID": 75,
+    "return_datereturned": "2020-07-26 08:54:24.000"
+  },
+  {
+    "return_ID": 117,
+    "borrowers_ID": 339,
+    "return_datereturned": "2020-07-18 06:50:44.000"
+  },
+  {
+    "return_ID": 118,
+    "borrowers_ID": 285,
+    "return_datereturned": "2020-05-05 16:02:57.000"
+  },
+  {
+    "return_ID": 119,
+    "borrowers_ID": 113,
+    "return_datereturned": "2022-12-06 00:20:39.000"
+  },
+  {
+    "return_ID": 120,
+    "borrowers_ID": 310,
+    "return_datereturned": "2022-11-07 17:16:02.000"
+  },
+  {
+    "return_ID": 121,
+    "borrowers_ID": 3,
+    "return_datereturned": "2022-10-18 04:13:47.000"
+  },
+  {
+    "return_ID": 122,
+    "borrowers_ID": 181,
+    "return_datereturned": "2021-05-10 22:51:04.000"
+  },
+  {
+    "return_ID": 123,
+    "borrowers_ID": 426,
+    "return_datereturned": "2020-08-01 13:26:28.000"
+  },
+  {
+    "return_ID": 124,
+    "borrowers_ID": 32,
+    "return_datereturned": "2020-07-05 21:22:34.000"
+  },
+  {
+    "return_ID": 125,
+    "borrowers_ID": 141,
+    "return_datereturned": "2020-09-28 02:05:22.000"
+  },
+  {
+    "return_ID": 126,
+    "borrowers_ID": 353,
+    "return_datereturned": "2021-04-09 21:34:30.000"
+  },
+  {
+    "return_ID": 127,
+    "borrowers_ID": 480,
+    "return_datereturned": "2022-03-25 12:42:45.000"
+  },
+  {
+    "return_ID": 128,
+    "borrowers_ID": 495,
+    "return_datereturned": "2022-06-09 14:53:12.000"
+  },
+  {
+    "return_ID": 129,
+    "borrowers_ID": 194,
+    "return_datereturned": "2022-06-08 07:08:29.000"
+  },
+  {
+    "return_ID": 130,
+    "borrowers_ID": 262,
+    "return_datereturned": "2022-04-19 07:29:28.000"
+  },
+  {
+    "return_ID": 131,
+    "borrowers_ID": 141,
+    "return_datereturned": "2020-09-28 02:05:22.000"
+  },
+  {
+    "return_ID": 132,
+    "borrowers_ID": 254,
+    "return_datereturned": "2020-12-31 23:14:28.000"
+  },
+  {
+    "return_ID": 133,
+    "borrowers_ID": 266,
+    "return_datereturned": "2020-04-15 18:28:16.000"
+  },
+  {
+    "return_ID": 134,
+    "borrowers_ID": 29,
+    "return_datereturned": "2022-04-08 13:19:30.000"
+  },
+  {
+    "return_ID": 135,
+    "borrowers_ID": 141,
+    "return_datereturned": "2020-09-28 02:05:22.000"
+  },
+  {
+    "return_ID": 136,
+    "borrowers_ID": 249,
+    "return_datereturned": "2022-08-10 15:29:37.000"
+  },
+  {
+    "return_ID": 137,
+    "borrowers_ID": 424,
+    "return_datereturned": "2022-09-14 21:39:02.000"
+  },
+  {
+    "return_ID": 138,
+    "borrowers_ID": 307,
+    "return_datereturned": "2020-08-25 05:19:27.000"
+  },
+  {
+    "return_ID": 139,
+    "borrowers_ID": 53,
+    "return_datereturned": "2021-10-31 20:08:36.000"
+  },
+  {
+    "return_ID": 140,
+    "borrowers_ID": 372,
+    "return_datereturned": "2021-04-07 15:19:48.000"
+  },
+  {
+    "return_ID": 141,
+    "borrowers_ID": 201,
+    "return_datereturned": "2020-03-12 09:34:28.000"
+  },
+  {
+    "return_ID": 142,
+    "borrowers_ID": 467,
+    "return_datereturned": "2021-02-04 18:39:16.000"
+  },
+  {
+    "return_ID": 143,
+    "borrowers_ID": 66,
+    "return_datereturned": "2023-01-05 17:34:01.000"
+  },
+  {
+    "return_ID": 144,
+    "borrowers_ID": 350,
+    "return_datereturned": "2022-06-19 22:47:12.000"
+  },
+  {
+    "return_ID": 145,
+    "borrowers_ID": 308,
+    "return_datereturned": "2022-03-05 21:52:14.000"
+  },
+  {
+    "return_ID": 146,
+    "borrowers_ID": 416,
+    "return_datereturned": "2021-06-09 01:25:02.000"
+  },
+  {
+    "return_ID": 147,
+    "borrowers_ID": 343,
+    "return_datereturned": "2022-02-21 18:29:47.000"
+  },
+  {
+    "return_ID": 148,
+    "borrowers_ID": 285,
+    "return_datereturned": "2021-01-30 00:52:54.000"
+  },
+  {
+    "return_ID": 149,
+    "borrowers_ID": 87,
+    "return_datereturned": "2021-09-18 01:13:58.000"
+  },
+  {
+    "return_ID": 150,
+    "borrowers_ID": 93,
+    "return_datereturned": "2022-06-19 04:03:58.000"
+  },
+  {
+    "return_ID": 151,
+    "borrowers_ID": 305,
+    "return_datereturned": "2020-04-15 06:03:00.000"
+  },
+  {
+    "return_ID": 152,
+    "borrowers_ID": 126,
+    "return_datereturned": "2023-01-04 17:26:46.000"
+  },
+  {
+    "return_ID": 153,
+    "borrowers_ID": 499,
+    "return_datereturned": "2022-07-19 11:23:12.000"
+  },
+  {
+    "return_ID": 154,
+    "borrowers_ID": 285,
+    "return_datereturned": "2021-01-30 00:52:54.000"
+  },
+  {
+    "return_ID": 155,
+    "borrowers_ID": 32,
+    "return_datereturned": "2020-07-05 21:22:34.000"
+  },
+  {
+    "return_ID": 156,
+    "borrowers_ID": 132,
+    "return_datereturned": "2021-12-03 14:21:12.000"
+  },
+  {
+    "return_ID": 157,
+    "borrowers_ID": 422,
+    "return_datereturned": "2021-04-15 02:06:19.000"
+  },
+  {
+    "return_ID": 158,
+    "borrowers_ID": 285,
+    "return_datereturned": "2021-09-01 05:15:07.000"
+  },
+  {
+    "return_ID": 159,
+    "borrowers_ID": 323,
+    "return_datereturned": "2021-07-16 04:07:28.000"
+  },
+  {
+    "return_ID": 160,
+    "borrowers_ID": 259,
+    "return_datereturned": "2020-05-05 06:12:21.000"
+  },
+  {
+    "return_ID": 161,
+    "borrowers_ID": 486,
+    "return_datereturned": "2020-02-15 05:21:21.000"
+  },
+  {
+    "return_ID": 162,
+    "borrowers_ID": 39,
+    "return_datereturned": "2020-02-27 12:31:44.000"
+  },
+  {
+    "return_ID": 163,
+    "borrowers_ID": 257,
+    "return_datereturned": "2022-02-17 19:27:37.000"
+  },
+  {
+    "return_ID": 164,
+    "borrowers_ID": 78,
+    "return_datereturned": "2021-11-04 06:52:57.000"
+  },
+  {
+    "return_ID": 165,
+    "borrowers_ID": 407,
+    "return_datereturned": "2022-12-18 01:08:48.000"
+  },
+  {
+    "return_ID": 166,
+    "borrowers_ID": 322,
+    "return_datereturned": "2022-10-23 07:16:07.000"
+  },
+  {
+    "return_ID": 167,
+    "borrowers_ID": 288,
+    "return_datereturned": "2021-05-13 15:17:28.000"
+  },
+  {
+    "return_ID": 168,
+    "borrowers_ID": 277,
+    "return_datereturned": "2020-09-27 12:26:13.000"
+  },
+  {
+    "return_ID": 169,
+    "borrowers_ID": 337,
+    "return_datereturned": "2020-09-22 17:07:54.000"
+  },
+  {
+    "return_ID": 170,
+    "borrowers_ID": 498,
+    "return_datereturned": "2020-04-20 02:27:03.000"
+  },
+  {
+    "return_ID": 171,
+    "borrowers_ID": 151,
+    "return_datereturned": "2020-05-01 21:55:33.000"
+  },
+  {
+    "return_ID": 172,
+    "borrowers_ID": 33,
+    "return_datereturned": "2021-11-05 14:59:41.000"
+  },
+  {
+    "return_ID": 173,
+    "borrowers_ID": 233,
+    "return_datereturned": "2022-04-30 14:31:56.000"
+  },
+  {
+    "return_ID": 174,
+    "borrowers_ID": 242,
+    "return_datereturned": "2020-09-12 00:54:15.000"
+  },
+  {
+    "return_ID": 175,
+    "borrowers_ID": 109,
+    "return_datereturned": "2021-03-14 20:15:57.000"
+  },
+  {
+    "return_ID": 176,
+    "borrowers_ID": 36,
+    "return_datereturned": "2021-04-03 00:22:31.000"
+  },
+  {
+    "return_ID": 177,
+    "borrowers_ID": 116,
+    "return_datereturned": "2020-05-21 13:30:24.000"
+  },
+  {
+    "return_ID": 178,
+    "borrowers_ID": 76,
+    "return_datereturned": "2022-11-06 09:51:11.000"
+  },
+  {
+    "return_ID": 179,
+    "borrowers_ID": 224,
+    "return_datereturned": "2022-12-17 18:44:48.000"
+  },
+  {
+    "return_ID": 180,
+    "borrowers_ID": 226,
+    "return_datereturned": "2020-09-28 16:56:56.000"
+  },
+  {
+    "return_ID": 181,
+    "borrowers_ID": 10,
+    "return_datereturned": "2022-06-30 21:33:01.000"
+  },
+  {
+    "return_ID": 182,
+    "borrowers_ID": 195,
+    "return_datereturned": "2022-04-27 20:31:41.000"
+  },
+  {
+    "return_ID": 183,
+    "borrowers_ID": 409,
+    "return_datereturned": "2021-11-12 03:58:00.000"
+  },
+  {
+    "return_ID": 184,
+    "borrowers_ID": 102,
+    "return_datereturned": "2020-07-11 08:45:24.000"
+  },
+  {
+    "return_ID": 185,
+    "borrowers_ID": 457,
+    "return_datereturned": "2022-11-18 13:52:35.000"
+  },
+  {
+    "return_ID": 186,
+    "borrowers_ID": 15,
+    "return_datereturned": "2020-07-15 16:15:43.000"
+  },
+  {
+    "return_ID": 187,
+    "borrowers_ID": 255,
+    "return_datereturned": "2020-11-10 22:39:02.000"
+  },
+  {
+    "return_ID": 188,
+    "borrowers_ID": 482,
+    "return_datereturned": "2022-08-07 15:16:48.000"
+  },
+  {
+    "return_ID": 189,
+    "borrowers_ID": 497,
+    "return_datereturned": "2022-07-08 08:14:03.000"
+  },
+  {
+    "return_ID": 190,
+    "borrowers_ID": 9,
+    "return_datereturned": "2020-04-25 01:46:07.000"
+  },
+  {
+    "return_ID": 191,
+    "borrowers_ID": 327,
+    "return_datereturned": "2022-12-20 19:54:39.000"
+  },
+  {
+    "return_ID": 192,
+    "borrowers_ID": 140,
+    "return_datereturned": "2020-03-21 19:32:03.000"
+  },
+  {
+    "return_ID": 193,
+    "borrowers_ID": 484,
+    "return_datereturned": "2020-11-09 10:24:34.000"
+  },
+  {
+    "return_ID": 194,
+    "borrowers_ID": 294,
+    "return_datereturned": "2020-04-25 03:33:28.000"
+  },
+  {
+    "return_ID": 195,
+    "borrowers_ID": 387,
+    "return_datereturned": "2022-04-13 15:30:45.000"
+  },
+  {
+    "return_ID": 196,
+    "borrowers_ID": 163,
+    "return_datereturned": "2022-02-09 00:47:37.000"
+  },
+  {
+    "return_ID": 197,
+    "borrowers_ID": 211,
+    "return_datereturned": "2020-09-21 05:34:39.000"
+  },
+  {
+    "return_ID": 198,
+    "borrowers_ID": 488,
+    "return_datereturned": "2022-12-04 00:44:01.000"
+  },
+  {
+    "return_ID": 199,
+    "borrowers_ID": 443,
+    "return_datereturned": "2020-09-19 03:04:17.000"
+  },
+  {
+    "return_ID": 200,
+    "borrowers_ID": 487,
+    "return_datereturned": "2020-02-16 02:09:47.000"
+  },
+  {
+    "return_ID": 201,
+    "borrowers_ID": 128,
+    "return_datereturned": "2022-01-23 23:48:29.000"
+  },
+  {
+    "return_ID": 202,
+    "borrowers_ID": 67,
+    "return_datereturned": "2022-11-17 18:30:09.000"
+  },
+  {
+    "return_ID": 203,
+    "borrowers_ID": 449,
+    "return_datereturned": "2022-03-30 12:05:11.000"
+  },
+  {
+    "return_ID": 204,
+    "borrowers_ID": 90,
+    "return_datereturned": "2020-10-27 06:45:32.000"
+  },
+  {
+    "return_ID": 205,
+    "borrowers_ID": 442,
+    "return_datereturned": "2022-02-28 05:37:38.000"
+  },
+  {
+    "return_ID": 206,
+    "borrowers_ID": 273,
+    "return_datereturned": "2020-06-24 08:10:42.000"
+  },
+  {
+    "return_ID": 207,
+    "borrowers_ID": 393,
+    "return_datereturned": "2020-01-26 13:09:31.000"
+  },
+  {
+    "return_ID": 208,
+    "borrowers_ID": 258,
+    "return_datereturned": "2022-09-27 02:15:56.000"
+  },
+  {
+    "return_ID": 209,
+    "borrowers_ID": 177,
+    "return_datereturned": "2021-01-02 17:31:13.000"
+  },
+  {
+    "return_ID": 210,
+    "borrowers_ID": 496,
+    "return_datereturned": "2021-10-20 20:17:31.000"
+  },
+  {
+    "return_ID": 211,
+    "borrowers_ID": 17,
+    "return_datereturned": "2022-10-12 01:08:27.000"
+  },
+  {
+    "return_ID": 212,
+    "borrowers_ID": 346,
+    "return_datereturned": "2021-06-14 05:44:45.000"
+  },
+  {
+    "return_ID": 213,
+    "borrowers_ID": 61,
+    "return_datereturned": "2021-09-14 03:37:37.000"
+  },
+  {
+    "return_ID": 214,
+    "borrowers_ID": 98,
+    "return_datereturned": "2021-07-22 02:48:30.000"
+  },
+  {
+    "return_ID": 215,
+    "borrowers_ID": 249,
+    "return_datereturned": "2022-04-20 11:41:27.000"
+  },
+  {
+    "return_ID": 216,
+    "borrowers_ID": 291,
+    "return_datereturned": "2020-10-20 20:57:36.000"
+  },
+  {
+    "return_ID": 217,
+    "borrowers_ID": 131,
+    "return_datereturned": "2021-08-10 22:19:46.000"
+  },
+  {
+    "return_ID": 218,
+    "borrowers_ID": 156,
+    "return_datereturned": "2020-03-29 20:33:37.000"
+  },
+  {
+    "return_ID": 219,
+    "borrowers_ID": 122,
+    "return_datereturned": "2022-12-16 07:04:36.000"
+  },
+  {
+    "return_ID": 220,
+    "borrowers_ID": 393,
+    "return_datereturned": "2020-01-26 13:09:31.000"
+  },
+  {
+    "return_ID": 221,
+    "borrowers_ID": 67,
+    "return_datereturned": "2020-01-28 16:53:56.000"
+  },
+  {
+    "return_ID": 222,
+    "borrowers_ID": 307,
+    "return_datereturned": "2020-08-25 05:19:27.000"
+  },
+  {
+    "return_ID": 223,
+    "borrowers_ID": 280,
+    "return_datereturned": "2022-09-18 05:49:15.000"
+  },
+  {
+    "return_ID": 224,
+    "borrowers_ID": 328,
+    "return_datereturned": "2022-06-23 15:38:09.000"
+  },
+  {
+    "return_ID": 225,
+    "borrowers_ID": 171,
+    "return_datereturned": "2020-11-15 20:45:49.000"
+  },
+  {
+    "return_ID": 226,
+    "borrowers_ID": 12,
+    "return_datereturned": "2021-11-19 07:53:38.000"
+  },
+  {
+    "return_ID": 227,
+    "borrowers_ID": 49,
+    "return_datereturned": "2021-10-25 16:57:15.000"
+  },
+  {
+    "return_ID": 228,
+    "borrowers_ID": 439,
+    "return_datereturned": "2020-06-27 03:06:26.000"
+  },
+  {
+    "return_ID": 229,
+    "borrowers_ID": 356,
+    "return_datereturned": "2020-08-26 22:07:24.000"
+  },
+  {
+    "return_ID": 230,
+    "borrowers_ID": 447,
+    "return_datereturned": "2021-07-17 01:12:50.000"
+  },
+  {
+    "return_ID": 231,
+    "borrowers_ID": 326,
+    "return_datereturned": "2021-12-31 13:05:38.000"
+  },
+  {
+    "return_ID": 232,
+    "borrowers_ID": 128,
+    "return_datereturned": "2022-01-23 23:48:29.000"
+  },
+  {
+    "return_ID": 233,
+    "borrowers_ID": 133,
+    "return_datereturned": "2022-06-26 07:52:33.000"
+  },
+  {
+    "return_ID": 234,
+    "borrowers_ID": 238,
+    "return_datereturned": "2022-01-24 13:01:58.000"
+  },
+  {
+    "return_ID": 235,
+    "borrowers_ID": 98,
+    "return_datereturned": "2022-04-23 16:17:31.000"
+  },
+  {
+    "return_ID": 236,
+    "borrowers_ID": 444,
+    "return_datereturned": "2021-03-01 10:35:39.000"
+  },
+  {
+    "return_ID": 237,
+    "borrowers_ID": 246,
+    "return_datereturned": "2021-09-20 11:14:43.000"
+  },
+  {
+    "return_ID": 238,
+    "borrowers_ID": 319,
+    "return_datereturned": "2022-01-09 01:46:26.000"
+  },
+  {
+    "return_ID": 239,
+    "borrowers_ID": 160,
+    "return_datereturned": "2021-06-28 18:18:06.000"
+  },
+  {
+    "return_ID": 240,
+    "borrowers_ID": 185,
+    "return_datereturned": "2022-06-27 15:11:52.000"
+  },
+  {
+    "return_ID": 241,
+    "borrowers_ID": 123,
+    "return_datereturned": "2022-10-23 15:32:43.000"
+  },
+  {
+    "return_ID": 242,
+    "borrowers_ID": 498,
+    "return_datereturned": "2021-07-09 03:46:42.000"
+  },
+  {
+    "return_ID": 243,
+    "borrowers_ID": 306,
+    "return_datereturned": "2020-03-17 10:47:51.000"
+  },
+  {
+    "return_ID": 244,
+    "borrowers_ID": 1,
+    "return_datereturned": "2020-06-24 15:05:20.000"
+  },
+  {
+    "return_ID": 245,
+    "borrowers_ID": 492,
+    "return_datereturned": "2022-01-10 22:08:55.000"
+  },
+  {
+    "return_ID": 246,
+    "borrowers_ID": 481,
+    "return_datereturned": "2022-01-29 12:13:38.000"
+  },
+  {
+    "return_ID": 247,
+    "borrowers_ID": 79,
+    "return_datereturned": "2022-11-24 15:29:57.000"
+  },
+  {
+    "return_ID": 248,
+    "borrowers_ID": 387,
+    "return_datereturned": "2022-08-24 14:00:43.000"
+  },
+  {
+    "return_ID": 249,
+    "borrowers_ID": 46,
+    "return_datereturned": "2021-08-25 23:04:25.000"
+  },
+  {
+    "return_ID": 250,
+    "borrowers_ID": 96,
+    "return_datereturned": "2021-04-02 15:14:36.000"
+  },
+  {
+    "return_ID": 251,
+    "borrowers_ID": 32,
+    "return_datereturned": "2020-07-05 21:22:34.000"
+  },
+  {
+    "return_ID": 252,
+    "borrowers_ID": 56,
+    "return_datereturned": "2022-01-11 13:14:56.000"
+  },
+  {
+    "return_ID": 253,
+    "borrowers_ID": 367,
+    "return_datereturned": "2020-10-17 09:08:37.000"
+  },
+  {
+    "return_ID": 254,
+    "borrowers_ID": 51,
+    "return_datereturned": "2021-12-04 01:55:47.000"
+  },
+  {
+    "return_ID": 255,
+    "borrowers_ID": 420,
+    "return_datereturned": "2020-03-13 07:59:21.000"
+  },
+  {
+    "return_ID": 256,
+    "borrowers_ID": 322,
+    "return_datereturned": "2022-10-23 07:16:07.000"
+  },
+  {
+    "return_ID": 257,
+    "borrowers_ID": 287,
+    "return_datereturned": "2021-11-25 20:38:10.000"
+  },
+  {
+    "return_ID": 258,
+    "borrowers_ID": 121,
+    "return_datereturned": "2021-05-03 16:20:03.000"
+  },
+  {
+    "return_ID": 259,
+    "borrowers_ID": 419,
+    "return_datereturned": "2021-03-16 22:02:42.000"
+  },
+  {
+    "return_ID": 260,
+    "borrowers_ID": 430,
+    "return_datereturned": "2022-09-01 04:40:25.000"
+  },
+  {
+    "return_ID": 261,
+    "borrowers_ID": 224,
+    "return_datereturned": "2022-07-02 09:05:48.000"
+  },
+  {
+    "return_ID": 262,
+    "borrowers_ID": 454,
+    "return_datereturned": "2021-10-01 11:38:04.000"
+  },
+  {
+    "return_ID": 263,
+    "borrowers_ID": 402,
+    "return_datereturned": "2022-02-22 06:06:42.000"
+  },
+  {
+    "return_ID": 264,
+    "borrowers_ID": 231,
+    "return_datereturned": "2022-10-11 09:55:20.000"
+  },
+  {
+    "return_ID": 265,
+    "borrowers_ID": 171,
+    "return_datereturned": "2022-03-21 04:14:34.000"
+  },
+  {
+    "return_ID": 266,
+    "borrowers_ID": 390,
+    "return_datereturned": "2021-09-16 02:18:19.000"
+  },
+  {
+    "return_ID": 267,
+    "borrowers_ID": 214,
+    "return_datereturned": "2022-11-19 13:22:20.000"
+  },
+  {
+    "return_ID": 268,
+    "borrowers_ID": 324,
+    "return_datereturned": "2021-01-08 11:03:15.000"
+  },
+  {
+    "return_ID": 269,
+    "borrowers_ID": 500,
+    "return_datereturned": "2022-11-29 00:38:03.000"
+  },
+  {
+    "return_ID": 270,
+    "borrowers_ID": 305,
+    "return_datereturned": "2020-04-15 06:03:00.000"
+  }
+]

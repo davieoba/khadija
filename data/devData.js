@@ -5,10 +5,6 @@ const fileObj = fs.readFileSync('./bookreturnrecorddetails.json', 'utf-8')
 
 const data = JSON.parse(fileObj)
 
-logger.info(data.forEach((record) => {
-  parseInt(record.detail_ID, 10)
-}))
-
 const newArr = data.map((el) => {
   return {
     detail_ID: parseInt(el.detail_ID, 10), return_ID: parseInt(el.return_ID, 10), book_ID: parseInt(el.book_ID, 10), detail_numberofcopies:
@@ -16,7 +12,8 @@ const newArr = data.map((el) => {
   }
 })
 
-console.log(newArr)
+// console.log(newArr)
+fs.writeFileSync('bookreturnrecorddetails2.json', JSON.stringify(newArr))
 
 const file2 = fs.readFileSync('./bookreturnrecords.json', 'utf-8')
 
@@ -31,6 +28,8 @@ const newArr2 = data2.map((el) => {
 })
 
 console.log(newArr2)
+fs.writeFileSync('bookreturnrecords2.json', JSON.stringify(newArr2))
+
 
 const file3 = fs.readFileSync('./books.json', 'utf-8')
 
@@ -49,7 +48,8 @@ const newArr3 = data3.map((el) => {
   }
 })
 
-console.log(newArr3)
+// console.log(newArr3)
+fs.writeFileSync('books2.json', JSON.stringify(newArr3))
 
 const file4 = fs.readFileSync('./borrowersrecorddetails.json', 'utf-8')
 
@@ -64,7 +64,9 @@ const newArr4 = data4.map((el) => {
   }
 })
 
-console.log(newArr4)
+// console.log(newArr4)
+fs.writeFileSync('borrowersrecorddetails2.json', JSON.stringify(newArr4))
+
 
 const file5 = fs.readFileSync('./borrowersrecords.json', 'utf-8')
 
@@ -81,3 +83,23 @@ const newArr5 = data5.map((el) => {
 })
 
 console.log(newArr5)
+// fs.writeFileSync('borrowersrecords2.json', JSON.stringify(newArr5))
+
+
+const file6 = fs.readFileSync('./members.json', 'utf-8')
+
+const data6 = JSON.parse(file6)
+
+const newArr6 = data6.map((el) => {
+  return {
+    member_ID: parseInt(el.member_ID),
+    member_lastname: el.member_lastname,
+    member_dateofbirth: el.member_dateofbirth,
+    member_gender: el.member_gender,
+    member_mobile: el.member_mobile,
+    member_email: el.member_email
+  }
+})
+
+// console.log(newArr6)
+// fs.writeFileSync('members2.json', JSON.stringify(newArr6))
