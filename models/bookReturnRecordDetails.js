@@ -1,13 +1,13 @@
 const mongoose = require('mongoose')
 
 const bookReturnRecordDetailsSchema = new mongoose.Schema({
-  detailID: {
+  detail_ID: {
     type: Number,
   },
-  returnID: {
+  return_ID: {
     type: Number
   },
-  bookID: {
+  book_ID: {
     type: Number
   },
   detail_numberofcopies: {

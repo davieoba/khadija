@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 
 const borrowerRecordDetailSchema = new mongoose.Schema({
-  details_ID: {
+  detail_ID: {
     type: Number,
   },
   borrowers_ID: {
@@ -13,7 +13,6 @@ const borrowerRecordDetailSchema = new mongoose.Schema({
   detail_numberofcopies: {
     type: Number
   }
-
 })
 
 const BorrowerRecordDetail = mongoose.model('BorrowerRecordDetail', borrowerRecordDetailSchema)

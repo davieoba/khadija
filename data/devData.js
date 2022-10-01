@@ -13,7 +13,7 @@ const newArr = data.map((el) => {
 })
 
 
-fs.writeFileSync('bookreturnrecorddetails2.json', JSON.stringify(newArr))
+// fs.writeFileSync('bookreturnrecorddetails2.json', JSON.stringify(newArr))
 
 const file2 = fs.readFileSync('./bookreturnrecords.json', 'utf-8')
 
@@ -27,7 +27,7 @@ const newArr2 = data2.map((el) => {
   }
 })
 
-fs.writeFileSync('bookreturnrecords2.json', JSON.stringify(newArr2))
+// fs.writeFileSync('bookreturnrecords2.json', JSON.stringify(newArr2))
 
 
 const file3 = fs.readFileSync('./books.json', 'utf-8')
@@ -48,7 +48,7 @@ const newArr3 = data3.map((el) => {
 })
 
 
-fs.writeFileSync('books2.json', JSON.stringify(newArr3))
+// fs.writeFileSync('books2.json', JSON.stringify(newArr3))
 
 const file4 = fs.readFileSync('./borrowersrecorddetails.json', 'utf-8')
 
@@ -56,14 +56,14 @@ const data4 = JSON.parse(file4)
 
 const newArr4 = data4.map((el) => {
   return {
-    details_ID: parseInt(el.details_ID, 10),
+    detail_ID: parseInt(el.details_ID, 10),
     borrowers_ID: parseInt(el.borrowers_ID, 10),
     book_ID: parseInt(el.book_ID, 10),
     detail_numberofcopies: parseInt(el.detail_numberofcopies, 10)
   }
 })
 
-fs.writeFileSync('borrowersrecorddetails2.json', JSON.stringify(newArr4))
+// fs.writeFileSync('borrowersrecorddetails2.json', JSON.stringify(newArr4))
 
 
 const file5 = fs.readFileSync('./borrowersrecords.json', 'utf-8')
@@ -80,7 +80,7 @@ const newArr5 = data5.map((el) => {
   }
 })
 
-fs.writeFileSync('borrowersrecords2.json', JSON.stringify(newArr5))
+// fs.writeFileSync('borrowersrecords2.json', JSON.stringify(newArr5))
 
 const file6 = fs.readFileSync('./members.json', 'utf-8')
 
@@ -97,4 +97,4 @@ const newArr6 = data6.map((el) => {
   }
 })
 
-fs.writeFileSync('members2.json', JSON.stringify(newArr6))
+// fs.writeFileSync('members2.json', JSON.stringify(newArr6))

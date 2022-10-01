@@ -16,14 +16,16 @@ const DB = mongoose
 // const BookReturnRecordDetails = require('./../models/bookReturnRecordDetails')
 // const BookRecord = require('./../models/bookReturnRecords')
 // const Book = require('./../models/books')
-// const BorrowerRecordDetail = require('./../models/borrowersRecordDetails')
+const BorrowerRecordDetail = require('./../models/borrowersRecordDetails')
 // const BorrowerRecord = require('./../models/borrowersRecords')
 // const LibraryStaff = require('./../models/libraryStaff')
-const Member = require('./../models/members')
+// const Member = require('./../models/members')
 
-const fileData = fs.readFileSync('./members.json').toString()
+const fileData = fs.readFileSync('./borrowersrecorddetails.json').toString()
 
 const dataObj = JSON.parse(fileData)
+
+console.log(dataObj)
 
 async function data() {
   if (process.argv[2] === '--import') {
@@ -39,7 +41,7 @@ async function data() {
 
 async function importData() {
   try {
-    await Member.create(dataObj)
+    await BorrowerRecordDetail.create(dataObj)
     console.log('data imported successfully')
   } catch (err) {
     console.log(err)
